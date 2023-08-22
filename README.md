@@ -6,13 +6,11 @@
 
 ![](doc/nodejs.png)
 
-- 运行说明
+## 项目运行
+
+- 运行命令
 
 ````
-接口文档地址：http://dishaxy.dishait.cn/shopadminapi
-网站演示地址：http://shopadmin.dishawang.com
-接口数据地址：http://ceshi13.dishait.cn
-
 两个接口文件夹说明
 /api      本地开发文件夹，里面放的都是开发 API 接口文件，对应的是：http://ceshi13.dishait.cn
 /api-test 测试文件夹，里面放的都是本地 API 接口文件，对应的是：/public/data
@@ -26,7 +24,30 @@
 环境接口：import {login} from '@api/manager.js'
 ````
 
-![](doc/api.png)
+- 项目文档
+
+```
+接口文档地址：http://dishaxy.dishait.cn/shopadminapi
+网站演示地址：http://shopadmin.dishawang.com
+接口数据地址：http://ceshi13.dishait.cn
+
+Vite4：https://cn.vitejs.dev/config/
+Vue3：https://cn.vuejs.org/
+ElementPlus：https://element-plus.org/zh-CN/
+WindiCSS：https://cn.windicss.org/
+VueUse：https://vueuse.org/
+VueX4：https://vuex.vuejs.org/zh/
+VueRouter4：https://router.vuejs.org/zh/
+```
+
+- 创建项目
+```
+// 使用 Vite 创建 Vue3 项目
+// https://cn.vitejs.dev/guide/
+npm create vite@latest vue3-shop-admin -- --template vue
+```
+
+![](doc/创建项目.png)
 
 ## 离线项目运行
 
@@ -46,40 +67,12 @@ VITE_API_SRC='api-test'
 VITE_BASE_URL='/data'
 ```
 
-- vite.config.js 配置文件
+## 运行效果
 
-```
-import {defineConfig, loadEnv} from 'vite'
-import vue from '@vitejs/plugin-vue'
-import WindiCSS from 'vite-plugin-windicss'
-import path from 'path'
+- 登录页面
+  
+![](doc/登录.png)
 
-// https://vitejs.dev/config/
-export default defineConfig(({command, mode}) => {
-  const config = loadEnv(mode, './')
-  // console.log(config)
-  // console.log(path.resolve(__dirname, "src", config.VITE_API_SRC))
-  return {
-    plugins: [vue(), WindiCSS()],
-    // 配置项目根路径别名
-    resolve: {
-      alias: {
-        "~": path.resolve(__dirname, "src"),
-        "@api": path.resolve(__dirname, "src", config.VITE_API_SRC)
-      }
-    },
-    server: {
-      open: false, // 项目启动时是否打开页面
-      port: '9080', // 项目启动时的端口号
-      // 解决跨域问题
-      proxy: {
-        '/api': {
-          target: 'http://ceshi13.dishait.cn',
-          changeOrigin: true,
-          rewrite: (path) => path.replace(/^\/api/, '')
-        },
-      }
-    }
-  }
-})
-```
+- 后台管理页面
+
+![](doc/后台.png)
