@@ -1,0 +1,69 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 168,
+              "name": "化妆品",
+              "order": 1001,
+              "images_count": 44
+          },
+          {
+              "id": 133,
+              "name": "智能家电",
+              "order": 1001,
+              "images_count": 3
+          },
+          {
+              "id": 622,
+              "name": "cat",
+              "order": 50,
+              "images_count": 0
+          },
+          {
+              "id": 174,
+              "name": "123",
+              "order": 50,
+              "images_count": 1
+          },
+          {
+              "id": 173,
+              "name": "服装服饰",
+              "order": 50,
+              "images_count": 3
+          },
+          {
+              "id": 172,
+              "name": "毛巾",
+              "order": 50,
+              "images_count": 0
+          },
+          {
+              "id": 171,
+              "name": "其他品类",
+              "order": 50,
+              "images_count": 1
+          },
+          {
+              "id": 170,
+              "name": "手表手机",
+              "order": 50,
+              "images_count": 0
+          },
+          {
+              "id": 169,
+              "name": "健身器材",
+              "order": 50,
+              "images_count": 0
+          },
+          {
+              "id": 107,
+              "name": "运动旅行",
+              "order": 9,
+              "images_count": 1
+          }
+      ],
+      "totalCount": 14
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

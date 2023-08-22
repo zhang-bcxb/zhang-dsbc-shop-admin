@@ -1,0 +1,39 @@
+{
+  "msg": "ok",
+  "data": {
+      "id": 1,
+      "open_reg": 1,
+      "reg_method": "username",
+      "password_min": 7,
+      "password_encrypt": ",0,1,2",
+      "upload_method": "oss",
+      "upload_config": {
+          "Bucket": "",
+          "http": "",
+          "ACCESS_KEY": "****************",
+          "SECRET_KEY": "****************"
+      },
+      "api_safe": 1,
+      "api_secret": "122232133239",
+      "close_order_minute": 30,
+      "auto_received_day": 7,
+      "after_sale_day": 23,
+      "alipay": {
+          "app_id": "****已配置****",
+          "ali_public_key": "****已配置****",
+          "private_key": "****已配置****"
+      },
+      "wxpay": {
+          "app_id": "****已配置****",
+          "miniapp_id": "****已配置****",
+          "secret": "****已配置****",
+          "appid": "****已配置****",
+          "mch_id": "****已配置****",
+          "key": "****已配置****",
+          "cert_client": "****已配置****.pem",
+          "cert_key": "****已配置****.pem"
+      },
+      "ship": "****已配置****"
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

@@ -1,0 +1,45 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 6,
+              "name": "钻石会员",
+              "level": 888,
+              "status": 1,
+              "discount": 50,
+              "max_price": 1,
+              "max_times": 1
+          },
+          {
+              "id": 5,
+              "name": "黄金会员",
+              "level": 30,
+              "status": 1,
+              "discount": 90,
+              "max_price": 300,
+              "max_times": 6
+          },
+          {
+              "id": 4,
+              "name": "白银会员",
+              "level": 20,
+              "status": 1,
+              "discount": 95,
+              "max_price": 100,
+              "max_times": 2
+          },
+          {
+              "id": 3,
+              "name": "普通会员",
+              "level": 10,
+              "status": 1,
+              "discount": 0,
+              "max_price": 0,
+              "max_times": 0
+          }
+      ],
+      "totalCount": 4
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

@@ -1,0 +1,109 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 160,
+              "name": "内存",
+              "type": 0,
+              "create_time": "2020-02-18 20:22:56",
+              "update_time": "2023-06-05 18:08:43",
+              "status": 0,
+              "order": 1001,
+              "default": "32g,64g,128g"
+          },
+          {
+              "id": 434,
+              "name": "11111",
+              "type": 0,
+              "create_time": "2023-06-04 20:37:04",
+              "update_time": "2023-06-05 11:19:28",
+              "status": 1,
+              "order": 50,
+              "default": "11111"
+          },
+          {
+              "id": 433,
+              "name": "123456",
+              "type": 0,
+              "create_time": "2023-06-04 16:22:42",
+              "update_time": "2023-06-05 09:15:19",
+              "status": 1,
+              "order": 50,
+              "default": "1,23"
+          },
+          {
+              "id": 432,
+              "name": "123456",
+              "type": 0,
+              "create_time": "2023-06-04 16:21:31",
+              "update_time": "2023-06-04 21:35:55",
+              "status": 0,
+              "order": 50,
+              "default": "123,456"
+          },
+          {
+              "id": 431,
+              "name": "123456789",
+              "type": 0,
+              "create_time": "2023-06-04 16:19:36",
+              "update_time": "2023-06-04 16:19:36",
+              "status": 1,
+              "order": 50,
+              "default": "123456789"
+          },
+          {
+              "id": 205,
+              "name": "品牌",
+              "type": 0,
+              "create_time": "2021-03-21 21:15:35",
+              "update_time": "2023-06-03 23:26:17",
+              "status": 1,
+              "order": 50,
+              "default": " 品牌1,品牌2"
+          },
+          {
+              "id": 176,
+              "name": "达娃1111",
+              "type": 0,
+              "create_time": "2020-12-02 09:36:05",
+              "update_time": "2023-06-03 08:21:17",
+              "status": 1,
+              "order": 50,
+              "default": "达娃"
+          },
+          {
+              "id": 165,
+              "name": "测试一下",
+              "type": 0,
+              "create_time": "2020-02-24 23:41:27",
+              "update_time": "2023-05-31 11:46:08",
+              "status": 1,
+              "order": 50,
+              "default": "kkk,lllll,sdfsdf"
+          },
+          {
+              "id": 161,
+              "name": "新增规格",
+              "type": 0,
+              "create_time": "2020-12-07 08:39:22",
+              "update_time": "2022-07-21 09:00:27",
+              "status": 0,
+              "order": 50,
+              "default": "1"
+          },
+          {
+              "id": 158,
+              "name": "尺寸",
+              "type": 0,
+              "create_time": "2020-02-16 21:23:56",
+              "update_time": "2022-07-21 09:40:13",
+              "status": 0,
+              "order": 50,
+              "default": "S,M,L,XL,XXL,XXXL"
+          }
+      ],
+      "totalCount": 13
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

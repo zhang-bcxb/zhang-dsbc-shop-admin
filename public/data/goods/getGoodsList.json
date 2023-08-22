@@ -1,0 +1,1124 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 48,
+              "title": "ceshi",
+              "category_id": 3,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/60bf2abe4605b.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "10.00",
+              "min_oprice": "100.00",
+              "desc": "ceshi",
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 3,
+              "sku_type": 1,
+              "sku_value": null,
+              "content": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n<p>&nbsp;<\/p>\n<div class=\"divide-bar\" style=\"margin: 0px; padding: 0.08rem 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; background-color: #f7f7f7; color: #999999; display: flex; justify-content: center; align-items: center; font-size: 0px; font-family: 'Microsoft YaHei';\">\n<div class=\"icon-info\" style=\"margin: 0px 0.08rem; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; position: relative; top: -0.01rem; display: flex; flex-direction: row; align-items: center; justify-content: center;\"><span class=\"taobao-iconfont \" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; font-size: 0.18rem; -webkit-font-smoothing: antialiased; -webkit-text-stroke-width: 0.2px; position: relative; font-family: taobao !important;\"><\/span><span class=\"icon-text\" style=\"margin: 0px 0px 0px 0.01rem; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; font-size: 0.12rem;\">详情<\/span><\/div>\n<\/div>\n<div class=\"desc-root\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; font-family: 'Microsoft YaHei'; font-size: 16px; background-color: #f7f7f7;\">\n<div class=\"descV6-container\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent;\">\n<div class=\"descV6-mobile-container\" style=\"margin: 0px; padding: 12px 0px 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; width: 1349px; background-color: #ffffff;\"><img class=\"descV6-mobile-image lazyload\" style=\"padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 578px; height: 578px; margin: 0px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2z4cLqCtYBeNjSspaXXaOOFXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1084.59px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2qIKTqpGWBuNjy0FbXXb4sXXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 937.109px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2KavKqER1BeNjy0FmXXb0wVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1152.94px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB2e2_MqrSYBuNjSspfXXcZCpXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1719.53px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB2Ya3jqDlYBeNjSszcXXbwhFXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1554.05px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/O1CN01d0bgZU28uNyAPxpFJ_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1322.02px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/O1CN011mwqNC28uNyCTHdUC_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1244.67px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i3\/2639307992\/TB2TIB0icuYBuNkSmRyXXcA3pXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1030.64px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2IyYYqx9YBuNjy0FfXXXIsVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1019.84px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB2LkVUihuTBuNkHFNRXXc9qpXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1025.23px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2RRmWqxSYBuNjSsphXXbGvVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1028.84px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB21U2oquOSBuNjy0FdXXbDnVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1023.44px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i3\/2639307992\/TB209qhindYBeNkSmLyXXXfnVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1041.42px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2jHcjqDlYBeNjSszcXXbwhFXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1070.2px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2GAu1qqSWBuNjSsrbXXa0mVXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1498.3px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2eibrqr5YBuNjSspoXXbeNFXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1043.23px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/O1CN01VY8oQA28uNyCA12gK_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 2088.25px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i3\/2639307992\/O1CN01WM2jER28uNy6GgCIL_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1525.27px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/O1CN01JdblOV28uNyEQ78ZQ_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1316.62px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB2oZhQuASWBuNjSszdXXbeSpXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1629.59px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/TB2UDE9uk9WBuNjSspeXXaz5VXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 777.031px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2Bskmuf9TBuNjy0FcXXbeiFXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1395.77px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i3\/2639307992\/TB2osEwukKWBuNjy1zjXXcOypXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1311.23px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2Lqw7ukyWBuNjy0FpXXassXXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1320.22px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2Th4luxSYBuNjSspjXXX73VXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1688.95px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i2\/2639307992\/TB2uEdfur9YBuNjy0FgXXcxcXXa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 2088.25px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/O1CN0195dRR128uNyF3E6fa_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 78.2344px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i4\/2639307992\/O1CN01jS3HoM28uNyCPhBPF_!!2639307992.jpg\" \/><img class=\"descV6-mobile-image lazyload\" style=\"margin: 0px; padding: 0px; box-sizing: border-box; outline: 0px; -webkit-tap-highlight-color: transparent; display: block; width: 1349px; height: 1440.73px;\" src=\"https:\/\/img.alicdn.com\/imgextra\/i1\/2639307992\/TB2ZpZBuXGWBuNjy0FbXXb4sXXa_!!2639307992.jpg\" \/><\/div>\n<p>&nbsp;<\/p>\n<\/div>\n<\/div>\n<\/body>\n<\/html>",
+              "discount": 0,
+              "create_time": "1970-01-01 08:33:41",
+              "update_time": "1970-01-01 08:33:42",
+              "delete_time": null,
+              "order": 1001,
+              "category": {
+                  "id": 3,
+                  "name": "运动旅行",
+                  "status": 1,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 13:52:52",
+                  "category_id": 0,
+                  "order": 3
+              },
+              "goods_banner": [
+                  {
+                      "id": 1031,
+                      "goods_id": 48,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647da691cc585.jpg",
+                      "create_time": "2023-06-05 18:15:01",
+                      "update_time": "2023-06-05 18:15:01"
+                  },
+                  {
+                      "id": 1032,
+                      "goods_id": 48,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+                      "create_time": "2023-06-05 18:15:01",
+                      "update_time": "2023-06-05 18:15:01"
+                  },
+                  {
+                      "id": 1033,
+                      "goods_id": 48,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef37c0e9.jpg",
+                      "create_time": "2023-06-05 18:15:01",
+                      "update_time": "2023-06-05 18:15:01"
+                  },
+                  {
+                      "id": 1034,
+                      "goods_id": 48,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ed9a9117.jpg",
+                      "create_time": "2023-06-05 18:15:01",
+                      "update_time": "2023-06-05 18:15:01"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [
+                  {
+                      "id": 262,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "绿色",
+                              "order": 50,
+                              "id": "188",
+                              "text": "绿色"
+                          },
+                          "1": {
+                              "id": 146,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "M",
+                              "order": 50,
+                              "text": "M"
+                          }
+                      }
+                  },
+                  {
+                      "id": 263,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "绿色",
+                              "order": 50,
+                              "id": "188",
+                              "text": "绿色"
+                          },
+                          "1": {
+                              "id": 147,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "L",
+                              "order": 50,
+                              "text": "L"
+                          }
+                      }
+                  },
+                  {
+                      "id": 264,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "黄色",
+                              "order": 50,
+                              "id": "189",
+                              "text": "黄色"
+                          },
+                          "1": {
+                              "id": 146,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "M",
+                              "order": 50,
+                              "text": "M"
+                          }
+                      }
+                  },
+                  {
+                      "id": 265,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "黄色",
+                              "order": 50,
+                              "id": "189",
+                              "text": "黄色"
+                          },
+                          "1": {
+                              "id": 147,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "L",
+                              "order": 50,
+                              "text": "L"
+                          }
+                      }
+                  },
+                  {
+                      "id": 266,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "白色",
+                              "order": 50,
+                              "id": "190",
+                              "text": "白色"
+                          },
+                          "1": {
+                              "id": 146,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "M",
+                              "order": 50,
+                              "text": "M"
+                          }
+                      }
+                  },
+                  {
+                      "id": 267,
+                      "image": "",
+                      "pprice": "0.00",
+                      "oprice": "0.00",
+                      "cprice": "0.00",
+                      "stock": 0,
+                      "volume": 0,
+                      "weight": 0,
+                      "code": "",
+                      "goods_id": 48,
+                      "skus": {
+                          "0": {
+                              "goods_skus_card_id": "60",
+                              "name": "颜色",
+                              "value": "白色",
+                              "order": 50,
+                              "id": "190",
+                              "text": "白色"
+                          },
+                          "1": {
+                              "id": 147,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "L",
+                              "order": 50,
+                              "text": "L"
+                          }
+                      }
+                  }
+              ],
+              "goods_skus_card": [
+                  {
+                      "id": 60,
+                      "goods_id": 48,
+                      "name": "颜色",
+                      "type": 0,
+                      "order": 1,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 190,
+                              "goods_skus_card_id": 60,
+                              "name": "颜色",
+                              "value": "白色",
+                              "order": 50
+                          },
+                          {
+                              "id": 189,
+                              "goods_skus_card_id": 60,
+                              "name": "颜色",
+                              "value": "黄色",
+                              "order": 50
+                          },
+                          {
+                              "id": 188,
+                              "goods_skus_card_id": 60,
+                              "name": "颜色",
+                              "value": "绿色",
+                              "order": 50
+                          }
+                      ]
+                  },
+                  {
+                      "id": 59,
+                      "goods_id": 48,
+                      "name": "尺寸",
+                      "type": 0,
+                      "order": 2,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 146,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "M",
+                              "order": 50
+                          },
+                          {
+                              "id": 147,
+                              "goods_skus_card_id": 59,
+                              "name": "尺寸",
+                              "value": "L",
+                              "order": 50
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "id": 205,
+              "title": "111",
+              "category_id": 5,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef37c0e9.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "0.00",
+              "min_oprice": "0.00",
+              "desc": "1111",
+              "unit": "件",
+              "stock": 99,
+              "min_stock": 10,
+              "ischeck": 0,
+              "status": 0,
+              "stock_display": 0,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": null,
+              "discount": 0,
+              "create_time": "2023-06-05 18:56:41",
+              "update_time": "2023-06-05 18:56:41",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 5,
+                  "name": "手机数码",
+                  "status": 1,
+                  "create_time": "2021-12-19 15:45:43",
+                  "update_time": "2023-06-05 17:28:38",
+                  "category_id": 0,
+                  "order": 0
+              },
+              "goods_banner": [],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": []
+          },
+          {
+              "id": 204,
+              "title": "345",
+              "category_id": 3,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "3.00",
+              "min_oprice": "3.00",
+              "desc": "345",
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg\"><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef37c0e9.jpg\"><\/p>",
+              "discount": 0,
+              "create_time": "2023-06-05 17:07:12",
+              "update_time": "2023-06-05 18:15:09",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 3,
+                  "name": "运动旅行",
+                  "status": 1,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 13:52:52",
+                  "category_id": 0,
+                  "order": 3
+              },
+              "goods_banner": [],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": [
+                  {
+                      "id": 456,
+                      "goods_id": 204,
+                      "name": "规格名称1",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": []
+                  },
+                  {
+                      "id": 457,
+                      "goods_id": 204,
+                      "name": "规格名称2",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": []
+                  },
+                  {
+                      "id": 459,
+                      "goods_id": 204,
+                      "name": "规格选项3",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": []
+                  },
+                  {
+                      "id": 460,
+                      "goods_id": 204,
+                      "name": "规格选项",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": []
+                  }
+              ]
+          },
+          {
+              "id": 203,
+              "title": "aaa",
+              "category_id": 5,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647701e04f59b.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "0.00",
+              "min_oprice": "0.11",
+              "desc": null,
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": null,
+              "discount": 0,
+              "create_time": "2023-06-05 09:45:53",
+              "update_time": "2023-06-05 15:52:19",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 5,
+                  "name": "手机数码",
+                  "status": 1,
+                  "create_time": "2021-12-19 15:45:43",
+                  "update_time": "2023-06-05 17:28:38",
+                  "category_id": 0,
+                  "order": 0
+              },
+              "goods_banner": [
+                  {
+                      "id": 1028,
+                      "goods_id": 203,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647da2d75edc8.jpg",
+                      "create_time": "2023-06-05 16:56:44",
+                      "update_time": "2023-06-05 16:56:44"
+                  },
+                  {
+                      "id": 1029,
+                      "goods_id": 203,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+                      "create_time": "2023-06-05 16:56:44",
+                      "update_time": "2023-06-05 16:56:44"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": []
+          },
+          {
+              "id": 202,
+              "title": "榴莲",
+              "category_id": 4,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647ab2e76fe6a.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "100.00",
+              "min_oprice": "99.00",
+              "desc": "111111",
+              "unit": "个",
+              "stock": 10001,
+              "min_stock": 100,
+              "ischeck": 1,
+              "status": 0,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647ab2e76fe6a.jpg\"><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647aaf6f1bc78.jpg\"><\/p>",
+              "discount": 0,
+              "create_time": "2023-06-03 18:32:18",
+              "update_time": "2023-06-03 22:16:07",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 4,
+                  "name": "居家生活",
+                  "status": 0,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 16:51:56",
+                  "category_id": 0,
+                  "order": 4
+              },
+              "goods_banner": [
+                  {
+                      "id": 999,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af0499e1e43.jpg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1000,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62ad227c70572.jpg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1001,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62ad215c50130.jpg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1002,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b559fecb17.png",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1003,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b5657d3ae7.jpg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1004,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b5342e2643.jpeg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  },
+                  {
+                      "id": 1005,
+                      "goods_id": 202,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62ad215c57713.jpg",
+                      "create_time": "2023-06-04 18:29:20",
+                      "update_time": "2023-06-04 18:29:20"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": [
+                  {
+                      "id": 455,
+                      "goods_id": 202,
+                      "name": "123456",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1074,
+                              "goods_skus_card_id": 455,
+                              "name": "123456",
+                              "value": "456",
+                              "order": 50
+                          },
+                          {
+                              "id": 1073,
+                              "goods_skus_card_id": 455,
+                              "name": "123456",
+                              "value": "123",
+                              "order": 50
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "id": 196,
+              "title": "1",
+              "category_id": 3,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62ae9f305afbf.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "1.00",
+              "min_oprice": "1.00",
+              "desc": "1",
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 9,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p>&nbsp;<\/p>\n<p><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b5342e2643.jpeg\"><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b52bc3f2a8.jpeg\"><\/p>",
+              "discount": 0,
+              "create_time": "2023-06-02 15:28:41",
+              "update_time": "2023-06-04 23:47:09",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 3,
+                  "name": "运动旅行",
+                  "status": 1,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 13:52:52",
+                  "category_id": 0,
+                  "order": 3
+              },
+              "goods_banner": [
+                  {
+                      "id": 577,
+                      "goods_id": 196,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6476246bb306e.jpg",
+                      "create_time": "2023-06-02 20:32:52",
+                      "update_time": "2023-06-02 20:32:52"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": []
+          },
+          {
+              "id": 193,
+              "title": "是的",
+              "category_id": 3,
+              "cover": null,
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "1.00",
+              "min_oprice": "4.00",
+              "desc": null,
+              "unit": "件",
+              "stock": 3,
+              "min_stock": 2,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p>ggg<\/p>",
+              "discount": 0,
+              "create_time": "2023-06-02 11:09:40",
+              "update_time": "2023-06-03 10:08:25",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 3,
+                  "name": "运动旅行",
+                  "status": 1,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 13:52:52",
+                  "category_id": 0,
+                  "order": 3
+              },
+              "goods_banner": [
+                  {
+                      "id": 555,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6476246bb306e.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  },
+                  {
+                      "id": 556,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6476246bb306e.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  },
+                  {
+                      "id": 557,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afe39fa.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  },
+                  {
+                      "id": 558,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6476246bb306e.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  },
+                  {
+                      "id": 559,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afe39fa.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  },
+                  {
+                      "id": 560,
+                      "goods_id": 193,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afde812.jpg",
+                      "create_time": "2023-06-02 11:16:03",
+                      "update_time": "2023-06-02 11:16:03"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": []
+          },
+          {
+              "id": 192,
+              "title": "add-te",
+              "category_id": 579,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afde812.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "1.00",
+              "min_oprice": "3.00",
+              "desc": null,
+              "unit": "5件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 2,
+              "status": 1,
+              "stock_display": 0,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p><img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647b52bc3f2a8.jpeg\"><\/p>",
+              "discount": 0,
+              "create_time": "2023-06-02 10:21:25",
+              "update_time": "2023-06-05 15:52:23",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 579,
+                  "name": "电器家务",
+                  "status": 0,
+                  "create_time": "2022-07-22 18:46:54",
+                  "update_time": "2023-06-01 15:19:06",
+                  "category_id": 0,
+                  "order": 50
+              },
+              "goods_banner": [
+                  {
+                      "id": 564,
+                      "goods_id": 192,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6476246bb306e.jpg",
+                      "create_time": "2023-06-02 11:51:17",
+                      "update_time": "2023-06-02 11:51:17"
+                  },
+                  {
+                      "id": 565,
+                      "goods_id": 192,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afa21c1.jpg",
+                      "create_time": "2023-06-02 11:51:17",
+                      "update_time": "2023-06-02 11:51:17"
+                  },
+                  {
+                      "id": 566,
+                      "goods_id": 192,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af0499e1e43.jpg",
+                      "create_time": "2023-06-02 11:51:17",
+                      "update_time": "2023-06-02 11:51:17"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": [
+                  {
+                      "id": 438,
+                      "goods_id": 192,
+                      "name": "内存",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1072,
+                              "goods_skus_card_id": 438,
+                              "name": "内存",
+                              "value": "128g",
+                              "order": 50
+                          },
+                          {
+                              "id": 1071,
+                              "goods_skus_card_id": 438,
+                              "name": "内存",
+                              "value": "64g",
+                              "order": 50
+                          },
+                          {
+                              "id": 1070,
+                              "goods_skus_card_id": 438,
+                              "name": "内存",
+                              "value": "32g",
+                              "order": 50
+                          }
+                      ]
+                  },
+                  {
+                      "id": 439,
+                      "goods_id": 192,
+                      "name": "guige2",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1055,
+                              "goods_skus_card_id": 439,
+                              "name": "guige2",
+                              "value": "33",
+                              "order": 50
+                          },
+                          {
+                              "id": 1069,
+                              "goods_skus_card_id": 439,
+                              "name": "guige2",
+                              "value": "g",
+                              "order": 50
+                          },
+                          {
+                              "id": 1054,
+                              "goods_skus_card_id": 439,
+                              "name": "guige2",
+                              "value": "ss",
+                              "order": 50
+                          }
+                      ]
+                  },
+                  {
+                      "id": 440,
+                      "goods_id": 192,
+                      "name": "颜色",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1061,
+                              "goods_skus_card_id": 440,
+                              "name": "颜色",
+                              "value": "绿色",
+                              "order": 50
+                          },
+                          {
+                              "id": 1060,
+                              "goods_skus_card_id": 440,
+                              "name": "颜色",
+                              "value": "蓝色",
+                              "order": 50
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "id": 189,
+              "title": "红米笔记本",
+              "category_id": 5,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6477012af41f1.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "0.00",
+              "min_oprice": "0.00",
+              "desc": "配置高，性能好",
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 1,
+              "status": 1,
+              "stock_display": 1,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<p>asd<img style=\"width: 100%;\" src=\"http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62ae9f305afbf.jpg\"><\/p>",
+              "discount": 0,
+              "create_time": "2023-06-01 16:02:02",
+              "update_time": "2023-06-02 22:47:11",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 5,
+                  "name": "手机数码",
+                  "status": 1,
+                  "create_time": "2021-12-19 15:45:43",
+                  "update_time": "2023-06-05 17:28:38",
+                  "category_id": 0,
+                  "order": 0
+              },
+              "goods_banner": [
+                  {
+                      "id": 1025,
+                      "goods_id": 189,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/6477008c7a345.jpg",
+                      "create_time": "2023-06-05 16:37:42",
+                      "update_time": "2023-06-05 16:37:42"
+                  },
+                  {
+                      "id": 1026,
+                      "goods_id": 189,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d9dfe57109.jpg",
+                      "create_time": "2023-06-05 16:37:42",
+                      "update_time": "2023-06-05 16:37:42"
+                  },
+                  {
+                      "id": 1027,
+                      "goods_id": 189,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+                      "create_time": "2023-06-05 16:37:42",
+                      "update_time": "2023-06-05 16:37:42"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": [
+                  {
+                      "id": 414,
+                      "goods_id": 189,
+                      "name": "独显",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 952,
+                              "goods_skus_card_id": 414,
+                              "name": "独显",
+                              "value": "2060",
+                              "order": 50
+                          }
+                      ]
+                  },
+                  {
+                      "id": 415,
+                      "goods_id": 189,
+                      "name": "cpu",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 955,
+                              "goods_skus_card_id": 415,
+                              "name": "cpu",
+                              "value": "12500",
+                              "order": 50
+                          }
+                      ]
+                  },
+                  {
+                      "id": 421,
+                      "goods_id": 189,
+                      "name": "品牌",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1038,
+                              "goods_skus_card_id": 421,
+                              "name": "品牌",
+                              "value": "品牌2",
+                              "order": 50
+                          },
+                          {
+                              "id": 1037,
+                              "goods_skus_card_id": 421,
+                              "name": "品牌",
+                              "value": " 品牌1",
+                              "order": 50
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "id": 184,
+              "title": "悟空",
+              "category_id": 3,
+              "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afe39fa.jpg",
+              "rating": 5,
+              "sale_count": 0,
+              "review_count": 0,
+              "min_price": "100.00",
+              "min_oprice": "60.00",
+              "desc": "取经失手",
+              "unit": "件",
+              "stock": 100,
+              "min_stock": 10,
+              "ischeck": 2,
+              "status": 1,
+              "stock_display": 0,
+              "express_id": 0,
+              "sku_type": 0,
+              "sku_value": null,
+              "content": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n<p>1231231<\/p>\n<\/body>\n<\/html>",
+              "discount": 0,
+              "create_time": "2023-05-31 18:00:30",
+              "update_time": "2023-06-02 07:13:22",
+              "delete_time": null,
+              "order": 50,
+              "category": {
+                  "id": 3,
+                  "name": "运动旅行",
+                  "status": 1,
+                  "create_time": "2019-08-17 00:57:12",
+                  "update_time": "2023-06-05 13:52:52",
+                  "category_id": 0,
+                  "order": 3
+              },
+              "goods_banner": [
+                  {
+                      "id": 1030,
+                      "goods_id": 184,
+                      "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647da347e34d9.jpg",
+                      "create_time": "2023-06-05 16:57:48",
+                      "update_time": "2023-06-05 16:57:48"
+                  }
+              ],
+              "goods_attrs": [],
+              "goods_skus": [],
+              "goods_skus_card": [
+                  {
+                      "id": 458,
+                      "goods_id": 184,
+                      "name": "达娃1111",
+                      "type": 0,
+                      "order": 50,
+                      "goods_skus_card_value": [
+                          {
+                              "id": 1096,
+                              "goods_skus_card_id": 458,
+                              "name": "达娃1111",
+                              "value": "1111",
+                              "order": 50
+                          },
+                          {
+                              "id": 1095,
+                              "goods_skus_card_id": 458,
+                              "name": "达娃1111",
+                              "value": "达娃",
+                              "order": 50
+                          }
+                      ]
+                  }
+              ]
+          }
+      ],
+      "totalCount": 26,
+      "cates": [
+          {
+              "id": 3,
+              "name": "运动旅行",
+              "status": 1,
+              "create_time": "2019-08-17 00:57:12",
+              "update_time": "2023-06-05 13:52:52",
+              "category_id": 0,
+              "order": 3,
+              "level": 0
+          },
+          {
+              "id": 4,
+              "name": "居家生活",
+              "status": 0,
+              "create_time": "2019-08-17 00:57:12",
+              "update_time": "2023-06-05 16:51:56",
+              "category_id": 0,
+              "order": 4,
+              "level": 0
+          },
+          {
+              "id": 5,
+              "name": "手机数码",
+              "status": 1,
+              "create_time": "2021-12-19 15:45:43",
+              "update_time": "2023-06-05 17:28:38",
+              "category_id": 0,
+              "order": 0,
+              "level": 0
+          },
+          {
+              "id": 372,
+              "name": "智能家电",
+              "status": 0,
+              "create_time": "2021-12-19 15:45:43",
+              "update_time": "2023-06-02 10:15:30",
+              "category_id": 0,
+              "order": 49,
+              "level": 0
+          },
+          {
+              "id": 579,
+              "name": "电器家务",
+              "status": 0,
+              "create_time": "2022-07-22 18:46:54",
+              "update_time": "2023-06-01 15:19:06",
+              "category_id": 0,
+              "order": 50,
+              "level": 0
+          },
+          {
+              "id": 622,
+              "name": "机械数码",
+              "status": 0,
+              "create_time": "2023-06-01 17:14:16",
+              "update_time": "2023-06-02 10:15:30",
+              "category_id": 0,
+              "order": 50,
+              "level": 0
+          }
+      ]
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

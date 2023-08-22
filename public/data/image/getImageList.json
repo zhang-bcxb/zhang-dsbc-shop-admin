@@ -1,0 +1,99 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 901,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647dc0bb60521.png",
+              "name": "public\/647dc0bb60521.png",
+              "path": "public\/647dc0bb60521.png",
+              "create_time": "2023-06-05 19:02:19",
+              "update_time": "2023-06-05 19:02:19",
+              "image_class_id": 168
+          },
+          {
+              "id": 900,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647da691cc585.jpg",
+              "name": "public\/647da691cc585.jpg",
+              "path": "public\/647da691cc585.jpg",
+              "create_time": "2023-06-05 17:10:42",
+              "update_time": "2023-06-05 17:10:42",
+              "image_class_id": 168
+          },
+          {
+              "id": 880,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+              "name": "public\/647d3ef92976c.jpg",
+              "path": "public\/647d3ef92976c.jpg",
+              "create_time": "2023-06-05 09:48:44",
+              "update_time": "2023-06-05 09:48:44",
+              "image_class_id": 168
+          },
+          {
+              "id": 879,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef37c0e9.jpg",
+              "name": "这是谁",
+              "path": "public\/647d3ef37c0e9.jpg",
+              "create_time": "2023-06-05 09:48:43",
+              "update_time": "2023-06-05 13:21:05",
+              "image_class_id": 168
+          },
+          {
+              "id": 878,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ee3355b0.jpg",
+              "name": "public\/647d3ee3355b0.jpg",
+              "path": "public\/647d3ee3355b0.jpg",
+              "create_time": "2023-06-05 09:48:39",
+              "update_time": "2023-06-05 09:48:39",
+              "image_class_id": 168
+          },
+          {
+              "id": 877,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ee98f7cf.jpg",
+              "name": "public\/647d3ee98f7cf.jpg",
+              "path": "public\/647d3ee98f7cf.jpg",
+              "create_time": "2023-06-05 09:48:35",
+              "update_time": "2023-06-05 09:48:35",
+              "image_class_id": 168
+          },
+          {
+              "id": 876,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ee226734.jpg",
+              "name": "public\/647d3ee226734.jpg",
+              "path": "public\/647d3ee226734.jpg",
+              "create_time": "2023-06-05 09:48:32",
+              "update_time": "2023-06-05 09:48:32",
+              "image_class_id": 168
+          },
+          {
+              "id": 874,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ed9a9117.jpg",
+              "name": "啊啊啊啊.jpg",
+              "path": "public\/647d3ed9a9117.jpg",
+              "create_time": "2023-06-05 09:48:24",
+              "update_time": "2023-06-05 09:51:43",
+              "image_class_id": 168
+          },
+          {
+              "id": 873,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ed7b5507.jpg",
+              "name": "public\/647d3ed7b5507.jpg",
+              "path": "public\/647d3ed7b5507.jpg",
+              "create_time": "2023-06-05 09:48:15",
+              "update_time": "2023-06-05 09:48:15",
+              "image_class_id": 168
+          },
+          {
+              "id": 872,
+              "url": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3edab5f35.jpg",
+              "name": "public\/647d3edab5f35.jpg",
+              "path": "public\/647d3edab5f35.jpg",
+              "create_time": "2023-06-05 09:48:11",
+              "update_time": "2023-06-05 09:48:11",
+              "image_class_id": 168
+          }
+      ],
+      "totalCount": 44
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

@@ -1,0 +1,42 @@
+{
+  "msg": "ok",
+  "data": {
+      "goods": [
+          {
+              "label": "审核中",
+              "value": 0
+          },
+          {
+              "label": "销售中",
+              "value": 37
+          },
+          {
+              "label": "已下架",
+              "value": 28
+          },
+          {
+              "label": "库存预警",
+              "value": 2
+          }
+      ],
+      "order": [
+          {
+              "label": "待付款",
+              "value": 171
+          },
+          {
+              "label": "待发货",
+              "value": 16
+          },
+          {
+              "label": "已发货",
+              "value": 1
+          },
+          {
+              "label": "退款中",
+              "value": 17
+          }
+      ]
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

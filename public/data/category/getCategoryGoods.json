@@ -1,0 +1,116 @@
+{
+  "msg": "ok",
+  "data": [
+      {
+          "id": 337,
+          "name": "fyiuy",
+          "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afe39fa.jpg",
+          "category_id": 5,
+          "goods_id": 173,
+          "order": 50,
+          "create_time": "2023-05-31 16:50:05",
+          "update_time": "2023-05-31 16:50:05"
+      },
+      {
+          "id": 336,
+          "name": "小米-商品4单规格",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/765a18a017acf0b5c012ce765696be6f.png",
+          "category_id": 5,
+          "goods_id": 30,
+          "order": 50,
+          "create_time": "2023-05-31 16:50:05",
+          "update_time": "2023-05-31 16:50:05"
+      },
+      {
+          "id": 335,
+          "name": "666",
+          "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62e2597084b0d.jpg",
+          "category_id": 5,
+          "goods_id": 179,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 334,
+          "name": "汤臣一品住宅区",
+          "cover": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62e38e791b82f.jpg",
+          "category_id": 5,
+          "goods_id": 178,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 333,
+          "name": "你还啊",
+          "cover": null,
+          "category_id": 5,
+          "goods_id": 175,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 331,
+          "name": "小米-商品4单规格",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/765a18a017acf0b5c012ce765696be6f.png",
+          "category_id": 5,
+          "goods_id": 30,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 330,
+          "name": "小米-商品3",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/765a18a017acf0b5c012ce765696be6f.png",
+          "category_id": 5,
+          "goods_id": 29,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 329,
+          "name": "小米-商品2",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/575977783cdaf86f36c41df05bd9885b.png",
+          "category_id": 5,
+          "goods_id": 28,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 328,
+          "name": "小米-商品1",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/eb5a2d258905e0a6096af057946b0bf0.png",
+          "category_id": 5,
+          "goods_id": 27,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 327,
+          "name": "小米-天鹅绒柔暖四件套",
+          "cover": "https:\/\/yanxuan-item.nosdn.127.net\/4c536c4ea486f8d5c8a172bfaaf5b680.png",
+          "category_id": 5,
+          "goods_id": 26,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      },
+      {
+          "id": 326,
+          "name": "小米-百支酒店风抱枕套",
+          "cover": "https:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/5984928facd569ef906becba3469810b.png",
+          "category_id": 5,
+          "goods_id": 25,
+          "order": 50,
+          "create_time": "2023-05-30 22:45:21",
+          "update_time": "2023-05-30 22:45:21"
+      }
+  ],
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

@@ -1,0 +1,16 @@
+{
+  "msg": "ok",
+  "data": {
+      "id": 1,
+      "distribution_open": 1,
+      "store_first_rebate": 10,
+      "store_second_rebate": 10,
+      "spread_banners": [
+          "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62710076cd93e.png"
+      ],
+      "is_self_brokerage": 0,
+      "settlement_days": 7,
+      "brokerage_method": "hand"
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

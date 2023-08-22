@@ -1,0 +1,28 @@
+{
+  "msg": "ok",
+  "data": {
+      "panels": [
+          {
+              "color": "bg-blue-400",
+              "label": "分销员人数(人)",
+              "value": 17
+          },
+          {
+              "color": "bg-orange-400",
+              "label": "订单数(单)",
+              "value": 2
+          },
+          {
+              "color": "bg-green-400",
+              "label": "订单金额(元)",
+              "value": 0.2
+          },
+          {
+              "color": "bg-indigo-400",
+              "label": "提现次数(次)",
+              "value": 0
+          }
+      ]
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}
