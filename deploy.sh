@@ -10,7 +10,7 @@ npm run build
 cd dist
 
 # 如果是发布到自定义域名
-# echo 'dsbc.itzhang520.top' > CNAME
+echo 'dsbc.itzhang520.top' > CNAME
 
 git init
 git add -A
