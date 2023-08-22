@@ -7,13 +7,14 @@ import path from 'path'
 export default defineConfig(({command, mode}) => {
   const config = loadEnv(mode, './')
   // console.log(config)
+  // console.log(path.resolve(__dirname, "src", config.VITE_API_SRC))
   return {
     plugins: [vue(), WindiCSS()],
     // 配置项目根路径别名
     resolve: {
       alias: {
         "~": path.resolve(__dirname, "src"),
-        "@api": config.VITE_API_SRC
+        "@api": path.resolve(__dirname, "src", config.VITE_API_SRC)
       }
     },
     server: {

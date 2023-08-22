@@ -42,7 +42,7 @@ http://127.0.0.1:9080/data/manager/login.json
 // 环境配置文件
 NODE_ENV=test
 VITE_NAME='测试环境'
-VITE_API_SRC='~/api-test'
+VITE_API_SRC='api-test'
 VITE_BASE_URL='/data'
 ```
 
@@ -58,13 +58,14 @@ import path from 'path'
 export default defineConfig(({command, mode}) => {
   const config = loadEnv(mode, './')
   // console.log(config)
+  // console.log(path.resolve(__dirname, "src", config.VITE_API_SRC))
   return {
     plugins: [vue(), WindiCSS()],
     // 配置项目根路径别名
     resolve: {
       alias: {
         "~": path.resolve(__dirname, "src"),
-        "@api": config.VITE_API_SRC
+        "@api": path.resolve(__dirname, "src", config.VITE_API_SRC)
       }
     },
     server: {
@@ -81,5 +82,4 @@ export default defineConfig(({command, mode}) => {
     }
   }
 })
-
 ```
