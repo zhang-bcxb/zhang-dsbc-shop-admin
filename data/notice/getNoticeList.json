@@ -1,0 +1,89 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 348,
+              "title": "22222",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:51:27",
+              "update_time": "2023-06-05 11:51:27"
+          },
+          {
+              "id": 347,
+              "title": "22222",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:51:25",
+              "update_time": "2023-06-05 11:51:25"
+          },
+          {
+              "id": 346,
+              "title": "22222",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:51:23",
+              "update_time": "2023-06-05 11:51:23"
+          },
+          {
+              "id": 345,
+              "title": "22222",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:51:15",
+              "update_time": "2023-06-05 11:51:15"
+          },
+          {
+              "id": 344,
+              "title": "aoteman",
+              "content": "12",
+              "order": 50,
+              "create_time": "2023-06-05 11:34:21",
+              "update_time": "2023-06-05 11:34:21"
+          },
+          {
+              "id": 343,
+              "title": "12112111",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:31:18",
+              "update_time": "2023-06-05 11:31:18"
+          },
+          {
+              "id": 342,
+              "title": "12112",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:31:11",
+              "update_time": "2023-06-05 11:31:11"
+          },
+          {
+              "id": 341,
+              "title": "121",
+              "content": "2",
+              "order": 50,
+              "create_time": "2023-06-05 11:30:49",
+              "update_time": "2023-06-05 11:30:49"
+          },
+          {
+              "id": 339,
+              "title": "aaaa",
+              "content": "aaa",
+              "order": 50,
+              "create_time": "2023-06-05 09:44:19",
+              "update_time": "2023-06-05 09:44:48"
+          },
+          {
+              "id": 338,
+              "title": "23",
+              "content": "34",
+              "order": 50,
+              "create_time": "2023-06-05 09:44:11",
+              "update_time": "2023-06-05 09:44:23"
+          }
+      ],
+      "totalCount": 18
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

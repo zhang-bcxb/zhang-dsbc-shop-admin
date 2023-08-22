@@ -1,0 +1,191 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 260,
+              "status": 0,
+              "create_time": "2023-06-05 15:36:47",
+              "update_time": "2023-06-05 16:54:16",
+              "username": "wolong",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647da23918206.jpg",
+              "role_id": 2,
+              "super": 0,
+              "role": {
+                  "id": 2,
+                  "name": "超级管理员"
+              }
+          },
+          {
+              "id": 235,
+              "status": 0,
+              "create_time": "2023-05-31 21:21:19",
+              "update_time": "2023-06-05 16:57:53",
+              "username": "1111",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef92976c.jpg",
+              "role_id": 19,
+              "super": 0,
+              "role": {
+                  "id": 19,
+                  "name": "销售"
+              }
+          },
+          {
+              "id": 227,
+              "status": 0,
+              "create_time": "2023-05-31 08:59:03",
+              "update_time": "2023-06-05 16:37:30",
+              "username": "laowang",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afde812.jpg",
+              "role_id": 3,
+              "super": 0,
+              "role": {
+                  "id": 3,
+                  "name": "运营"
+              }
+          },
+          {
+              "id": 226,
+              "status": 0,
+              "create_time": "2023-05-31 08:50:00",
+              "update_time": "2023-06-05 16:22:04",
+              "username": "xcv",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62af04afde812.jpg",
+              "role_id": 38,
+              "super": 0,
+              "role": {
+                  "id": 38,
+                  "name": "测试"
+              }
+          },
+          {
+              "id": 224,
+              "status": 1,
+              "create_time": "2023-05-30 21:05:46",
+              "update_time": "2023-06-05 17:41:04",
+              "username": "封装",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/62aeaa73b9041.jpg",
+              "role_id": 9,
+              "super": 0,
+              "role": {
+                  "id": 9,
+                  "name": "测试"
+              }
+          },
+          {
+              "id": 223,
+              "status": 1,
+              "create_time": "2022-07-30 18:46:47",
+              "update_time": "2023-06-05 15:45:42",
+              "username": "awadw",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef56d4c1.jpg",
+              "role_id": 35,
+              "super": 0,
+              "role": {
+                  "id": 35,
+                  "name": "普通管理员"
+              }
+          },
+          {
+              "id": 219,
+              "status": 1,
+              "create_time": "2022-07-27 22:47:46",
+              "update_time": "2023-06-05 16:44:16",
+              "username": "sd1",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ee98f7cf.jpg",
+              "role_id": 3,
+              "super": 0,
+              "role": {
+                  "id": 3,
+                  "name": "运营"
+              }
+          },
+          {
+              "id": 211,
+              "status": 1,
+              "create_time": "2022-07-25 22:04:13",
+              "update_time": "2023-06-05 11:43:37",
+              "username": "aaaa",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3ef25dd19.jpg",
+              "role_id": 38,
+              "super": 0,
+              "role": {
+                  "id": 38,
+                  "name": "测试"
+              }
+          },
+          {
+              "id": 206,
+              "status": 1,
+              "create_time": "2022-07-25 10:26:32",
+              "update_time": "2023-06-05 11:43:46",
+              "username": "mybrr",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3f0814d13.jpg",
+              "role_id": 2,
+              "super": 0,
+              "role": {
+                  "id": 2,
+                  "name": "超级管理员"
+              }
+          },
+          {
+              "id": 204,
+              "status": 0,
+              "create_time": "2022-07-24 19:31:54",
+              "update_time": "2023-06-05 11:43:54",
+              "username": "ces",
+              "avatar": "http:\/\/tangzhe123-com.oss-cn-shenzhen.aliyuncs.com\/public\/647d3f0314631.jpg",
+              "role_id": 3,
+              "super": 0,
+              "role": {
+                  "id": 3,
+                  "name": "运营"
+              }
+          }
+      ],
+      "totalCount": 30,
+      "roles": [
+          {
+              "id": 2,
+              "name": "超级管理员"
+          },
+          {
+              "id": 3,
+              "name": "运营"
+          },
+          {
+              "id": 9,
+              "name": "测试"
+          },
+          {
+              "id": 19,
+              "name": "销售"
+          },
+          {
+              "id": 21,
+              "name": "技术"
+          },
+          {
+              "id": 31,
+              "name": "测试的故事"
+          },
+          {
+              "id": 35,
+              "name": "普通管理员"
+          },
+          {
+              "id": 36,
+              "name": "后勤"
+          },
+          {
+              "id": 38,
+              "name": "测试"
+          },
+          {
+              "id": 146,
+              "name": "bg123"
+          }
+      ]
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

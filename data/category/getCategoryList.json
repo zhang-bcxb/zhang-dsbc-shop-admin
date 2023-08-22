@@ -1,0 +1,66 @@
+{
+  "msg": "ok",
+  "data": [
+      {
+          "id": 5,
+          "name": "手机数码",
+          "status": 1,
+          "create_time": "2021-12-19 15:45:43",
+          "update_time": "2023-06-05 17:28:38",
+          "category_id": 0,
+          "order": 0,
+          "child": []
+      },
+      {
+          "id": 3,
+          "name": "运动旅行",
+          "status": 1,
+          "create_time": "2019-08-17 00:57:12",
+          "update_time": "2023-06-05 13:52:52",
+          "category_id": 0,
+          "order": 3,
+          "child": []
+      },
+      {
+          "id": 4,
+          "name": "居家生活",
+          "status": 0,
+          "create_time": "2019-08-17 00:57:12",
+          "update_time": "2023-06-05 16:51:56",
+          "category_id": 0,
+          "order": 4,
+          "child": []
+      },
+      {
+          "id": 372,
+          "name": "智能家电",
+          "status": 0,
+          "create_time": "2021-12-19 15:45:43",
+          "update_time": "2023-06-02 10:15:30",
+          "category_id": 0,
+          "order": 49,
+          "child": []
+      },
+      {
+          "id": 622,
+          "name": "机械数码",
+          "status": 0,
+          "create_time": "2023-06-01 17:14:16",
+          "update_time": "2023-06-02 10:15:30",
+          "category_id": 0,
+          "order": 50,
+          "child": []
+      },
+      {
+          "id": 579,
+          "name": "电器家务",
+          "status": 0,
+          "create_time": "2022-07-22 18:46:54",
+          "update_time": "2023-06-01 15:19:06",
+          "category_id": 0,
+          "order": 50,
+          "child": []
+      }
+  ],
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

@@ -1,0 +1,4477 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 146,
+              "status": 1,
+              "create_time": "2023-06-05 12:06:38",
+              "update_time": "2023-06-05 12:06:38",
+              "name": "bg123",
+              "desc": "bg123",
+              "rules": [
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 3690,
+                          "role_id": 146,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 3691,
+                          "role_id": 146,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 3692,
+                          "role_id": 146,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 3693,
+                          "role_id": 146,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 3694,
+                          "role_id": 146,
+                          "rule_id": 176
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 38,
+              "status": 1,
+              "create_time": "2021-12-19 03:47:51",
+              "update_time": "2023-06-03 22:15:35",
+              "name": "测试",
+              "desc": "测试角111",
+              "rules": [
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 2041,
+                          "role_id": 38,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 2042,
+                          "role_id": 38,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 2043,
+                          "role_id": 38,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 2044,
+                          "role_id": 38,
+                          "rule_id": 164
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 2045,
+                          "role_id": 38,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 2046,
+                          "role_id": 38,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 2047,
+                          "role_id": 38,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 2048,
+                          "role_id": 38,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 2049,
+                          "role_id": 38,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 2050,
+                          "role_id": 38,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 2051,
+                          "role_id": 38,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 2052,
+                          "role_id": 38,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 159,
+                      "pivot": {
+                          "id": 2053,
+                          "role_id": 38,
+                          "rule_id": 159
+                      }
+                  },
+                  {
+                      "id": 160,
+                      "pivot": {
+                          "id": 2054,
+                          "role_id": 38,
+                          "rule_id": 160
+                      }
+                  },
+                  {
+                      "id": 161,
+                      "pivot": {
+                          "id": 2055,
+                          "role_id": 38,
+                          "rule_id": 161
+                      }
+                  },
+                  {
+                      "id": 181,
+                      "pivot": {
+                          "id": 2056,
+                          "role_id": 38,
+                          "rule_id": 181
+                      }
+                  },
+                  {
+                      "id": 173,
+                      "pivot": {
+                          "id": 2079,
+                          "role_id": 38,
+                          "rule_id": 173
+                      }
+                  },
+                  {
+                      "id": 22,
+                      "pivot": {
+                          "id": 2108,
+                          "role_id": 38,
+                          "rule_id": 22
+                      }
+                  },
+                  {
+                      "id": 102,
+                      "pivot": {
+                          "id": 2109,
+                          "role_id": 38,
+                          "rule_id": 102
+                      }
+                  },
+                  {
+                      "id": 103,
+                      "pivot": {
+                          "id": 2110,
+                          "role_id": 38,
+                          "rule_id": 103
+                      }
+                  },
+                  {
+                      "id": 104,
+                      "pivot": {
+                          "id": 2111,
+                          "role_id": 38,
+                          "rule_id": 104
+                      }
+                  },
+                  {
+                      "id": 105,
+                      "pivot": {
+                          "id": 2112,
+                          "role_id": 38,
+                          "rule_id": 105
+                      }
+                  },
+                  {
+                      "id": 106,
+                      "pivot": {
+                          "id": 2113,
+                          "role_id": 38,
+                          "rule_id": 106
+                      }
+                  },
+                  {
+                      "id": 27,
+                      "pivot": {
+                          "id": 2119,
+                          "role_id": 38,
+                          "rule_id": 27
+                      }
+                  },
+                  {
+                      "id": 28,
+                      "pivot": {
+                          "id": 2120,
+                          "role_id": 38,
+                          "rule_id": 28
+                      }
+                  },
+                  {
+                      "id": 29,
+                      "pivot": {
+                          "id": 2121,
+                          "role_id": 38,
+                          "rule_id": 29
+                      }
+                  },
+                  {
+                      "id": 30,
+                      "pivot": {
+                          "id": 2122,
+                          "role_id": 38,
+                          "rule_id": 30
+                      }
+                  },
+                  {
+                      "id": 31,
+                      "pivot": {
+                          "id": 2123,
+                          "role_id": 38,
+                          "rule_id": 31
+                      }
+                  },
+                  {
+                      "id": 32,
+                      "pivot": {
+                          "id": 2124,
+                          "role_id": 38,
+                          "rule_id": 32
+                      }
+                  },
+                  {
+                      "id": 33,
+                      "pivot": {
+                          "id": 2125,
+                          "role_id": 38,
+                          "rule_id": 33
+                      }
+                  },
+                  {
+                      "id": 34,
+                      "pivot": {
+                          "id": 2126,
+                          "role_id": 38,
+                          "rule_id": 34
+                      }
+                  },
+                  {
+                      "id": 35,
+                      "pivot": {
+                          "id": 2127,
+                          "role_id": 38,
+                          "rule_id": 35
+                      }
+                  },
+                  {
+                      "id": 36,
+                      "pivot": {
+                          "id": 2128,
+                          "role_id": 38,
+                          "rule_id": 36
+                      }
+                  },
+                  {
+                      "id": 37,
+                      "pivot": {
+                          "id": 2129,
+                          "role_id": 38,
+                          "rule_id": 37
+                      }
+                  },
+                  {
+                      "id": 38,
+                      "pivot": {
+                          "id": 2130,
+                          "role_id": 38,
+                          "rule_id": 38
+                      }
+                  },
+                  {
+                      "id": 180,
+                      "pivot": {
+                          "id": 2131,
+                          "role_id": 38,
+                          "rule_id": 180
+                      }
+                  },
+                  {
+                      "id": 8,
+                      "pivot": {
+                          "id": 2138,
+                          "role_id": 38,
+                          "rule_id": 8
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 2142,
+                          "role_id": 38,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 2143,
+                          "role_id": 38,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 2144,
+                          "role_id": 38,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 2145,
+                          "role_id": 38,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 132,
+                      "pivot": {
+                          "id": 2146,
+                          "role_id": 38,
+                          "rule_id": 132
+                      }
+                  },
+                  {
+                      "id": 133,
+                      "pivot": {
+                          "id": 2147,
+                          "role_id": 38,
+                          "rule_id": 133
+                      }
+                  },
+                  {
+                      "id": 134,
+                      "pivot": {
+                          "id": 2148,
+                          "role_id": 38,
+                          "rule_id": 134
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 2149,
+                          "role_id": 38,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 2150,
+                          "role_id": 38,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 2151,
+                          "role_id": 38,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 2152,
+                          "role_id": 38,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 2153,
+                          "role_id": 38,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 2154,
+                          "role_id": 38,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 2155,
+                          "role_id": 38,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 2156,
+                          "role_id": 38,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 2157,
+                          "role_id": 38,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 2158,
+                          "role_id": 38,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 25,
+                      "pivot": {
+                          "id": 2167,
+                          "role_id": 38,
+                          "rule_id": 25
+                      }
+                  },
+                  {
+                      "id": 108,
+                      "pivot": {
+                          "id": 2168,
+                          "role_id": 38,
+                          "rule_id": 108
+                      }
+                  },
+                  {
+                      "id": 109,
+                      "pivot": {
+                          "id": 2169,
+                          "role_id": 38,
+                          "rule_id": 109
+                      }
+                  },
+                  {
+                      "id": 110,
+                      "pivot": {
+                          "id": 2170,
+                          "role_id": 38,
+                          "rule_id": 110
+                      }
+                  },
+                  {
+                      "id": 111,
+                      "pivot": {
+                          "id": 2171,
+                          "role_id": 38,
+                          "rule_id": 111
+                      }
+                  },
+                  {
+                      "id": 112,
+                      "pivot": {
+                          "id": 2172,
+                          "role_id": 38,
+                          "rule_id": 112
+                      }
+                  },
+                  {
+                      "id": 21,
+                      "pivot": {
+                          "id": 3129,
+                          "role_id": 38,
+                          "rule_id": 21
+                      }
+                  },
+                  {
+                      "id": 97,
+                      "pivot": {
+                          "id": 3130,
+                          "role_id": 38,
+                          "rule_id": 97
+                      }
+                  },
+                  {
+                      "id": 98,
+                      "pivot": {
+                          "id": 3131,
+                          "role_id": 38,
+                          "rule_id": 98
+                      }
+                  },
+                  {
+                      "id": 99,
+                      "pivot": {
+                          "id": 3132,
+                          "role_id": 38,
+                          "rule_id": 99
+                      }
+                  },
+                  {
+                      "id": 100,
+                      "pivot": {
+                          "id": 3133,
+                          "role_id": 38,
+                          "rule_id": 100
+                      }
+                  },
+                  {
+                      "id": 101,
+                      "pivot": {
+                          "id": 3134,
+                          "role_id": 38,
+                          "rule_id": 101
+                      }
+                  },
+                  {
+                      "id": 7,
+                      "pivot": {
+                          "id": 3478,
+                          "role_id": 38,
+                          "rule_id": 7
+                      }
+                  },
+                  {
+                      "id": 18,
+                      "pivot": {
+                          "id": 3479,
+                          "role_id": 38,
+                          "rule_id": 18
+                      }
+                  },
+                  {
+                      "id": 89,
+                      "pivot": {
+                          "id": 3480,
+                          "role_id": 38,
+                          "rule_id": 89
+                      }
+                  },
+                  {
+                      "id": 90,
+                      "pivot": {
+                          "id": 3481,
+                          "role_id": 38,
+                          "rule_id": 90
+                      }
+                  },
+                  {
+                      "id": 91,
+                      "pivot": {
+                          "id": 3482,
+                          "role_id": 38,
+                          "rule_id": 91
+                      }
+                  },
+                  {
+                      "id": 92,
+                      "pivot": {
+                          "id": 3483,
+                          "role_id": 38,
+                          "rule_id": 92
+                      }
+                  },
+                  {
+                      "id": 93,
+                      "pivot": {
+                          "id": 3484,
+                          "role_id": 38,
+                          "rule_id": 93
+                      }
+                  },
+                  {
+                      "id": 182,
+                      "pivot": {
+                          "id": 3485,
+                          "role_id": 38,
+                          "rule_id": 182
+                      }
+                  },
+                  {
+                      "id": 183,
+                      "pivot": {
+                          "id": 3486,
+                          "role_id": 38,
+                          "rule_id": 183
+                      }
+                  },
+                  {
+                      "id": 17,
+                      "pivot": {
+                          "id": 3487,
+                          "role_id": 38,
+                          "rule_id": 17
+                      }
+                  },
+                  {
+                      "id": 94,
+                      "pivot": {
+                          "id": 3488,
+                          "role_id": 38,
+                          "rule_id": 94
+                      }
+                  },
+                  {
+                      "id": 95,
+                      "pivot": {
+                          "id": 3489,
+                          "role_id": 38,
+                          "rule_id": 95
+                      }
+                  },
+                  {
+                      "id": 96,
+                      "pivot": {
+                          "id": 3490,
+                          "role_id": 38,
+                          "rule_id": 96
+                      }
+                  },
+                  {
+                      "id": 71,
+                      "pivot": {
+                          "id": 3667,
+                          "role_id": 38,
+                          "rule_id": 71
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 3668,
+                          "role_id": 38,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 3689,
+                          "role_id": 38,
+                          "rule_id": 73
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 36,
+              "status": 0,
+              "create_time": "2021-04-01 08:49:38",
+              "update_time": "2023-06-04 14:15:12",
+              "name": "后勤",
+              "desc": "首页与菜单",
+              "rules": [
+                  {
+                      "id": 11,
+                      "pivot": {
+                          "id": 233,
+                          "role_id": 36,
+                          "rule_id": 11
+                      }
+                  },
+                  {
+                      "id": 62,
+                      "pivot": {
+                          "id": 234,
+                          "role_id": 36,
+                          "rule_id": 62
+                      }
+                  },
+                  {
+                      "id": 63,
+                      "pivot": {
+                          "id": 235,
+                          "role_id": 36,
+                          "rule_id": 63
+                      }
+                  },
+                  {
+                      "id": 64,
+                      "pivot": {
+                          "id": 236,
+                          "role_id": 36,
+                          "rule_id": 64
+                      }
+                  },
+                  {
+                      "id": 65,
+                      "pivot": {
+                          "id": 237,
+                          "role_id": 36,
+                          "rule_id": 65
+                      }
+                  },
+                  {
+                      "id": 66,
+                      "pivot": {
+                          "id": 238,
+                          "role_id": 36,
+                          "rule_id": 66
+                      }
+                  },
+                  {
+                      "id": 67,
+                      "pivot": {
+                          "id": 239,
+                          "role_id": 36,
+                          "rule_id": 67
+                      }
+                  },
+                  {
+                      "id": 68,
+                      "pivot": {
+                          "id": 240,
+                          "role_id": 36,
+                          "rule_id": 68
+                      }
+                  },
+                  {
+                      "id": 69,
+                      "pivot": {
+                          "id": 241,
+                          "role_id": 36,
+                          "rule_id": 69
+                      }
+                  },
+                  {
+                      "id": 9,
+                      "pivot": {
+                          "id": 243,
+                          "role_id": 36,
+                          "rule_id": 9
+                      }
+                  },
+                  {
+                      "id": 23,
+                      "pivot": {
+                          "id": 244,
+                          "role_id": 36,
+                          "rule_id": 23
+                      }
+                  },
+                  {
+                      "id": 121,
+                      "pivot": {
+                          "id": 245,
+                          "role_id": 36,
+                          "rule_id": 121
+                      }
+                  },
+                  {
+                      "id": 123,
+                      "pivot": {
+                          "id": 246,
+                          "role_id": 36,
+                          "rule_id": 123
+                      }
+                  },
+                  {
+                      "id": 24,
+                      "pivot": {
+                          "id": 247,
+                          "role_id": 36,
+                          "rule_id": 24
+                      }
+                  },
+                  {
+                      "id": 25,
+                      "pivot": {
+                          "id": 256,
+                          "role_id": 36,
+                          "rule_id": 25
+                      }
+                  },
+                  {
+                      "id": 108,
+                      "pivot": {
+                          "id": 258,
+                          "role_id": 36,
+                          "rule_id": 108
+                      }
+                  },
+                  {
+                      "id": 109,
+                      "pivot": {
+                          "id": 259,
+                          "role_id": 36,
+                          "rule_id": 109
+                      }
+                  },
+                  {
+                      "id": 110,
+                      "pivot": {
+                          "id": 260,
+                          "role_id": 36,
+                          "rule_id": 110
+                      }
+                  },
+                  {
+                      "id": 111,
+                      "pivot": {
+                          "id": 261,
+                          "role_id": 36,
+                          "rule_id": 111
+                      }
+                  },
+                  {
+                      "id": 112,
+                      "pivot": {
+                          "id": 262,
+                          "role_id": 36,
+                          "rule_id": 112
+                      }
+                  },
+                  {
+                      "id": 26,
+                      "pivot": {
+                          "id": 263,
+                          "role_id": 36,
+                          "rule_id": 26
+                      }
+                  },
+                  {
+                      "id": 122,
+                      "pivot": {
+                          "id": 264,
+                          "role_id": 36,
+                          "rule_id": 122
+                      }
+                  },
+                  {
+                      "id": 124,
+                      "pivot": {
+                          "id": 265,
+                          "role_id": 36,
+                          "rule_id": 124
+                      }
+                  },
+                  {
+                      "id": 125,
+                      "pivot": {
+                          "id": 266,
+                          "role_id": 36,
+                          "rule_id": 125
+                      }
+                  },
+                  {
+                      "id": 8,
+                      "pivot": {
+                          "id": 705,
+                          "role_id": 36,
+                          "rule_id": 8
+                      }
+                  },
+                  {
+                      "id": 172,
+                      "pivot": {
+                          "id": 706,
+                          "role_id": 36,
+                          "rule_id": 172
+                      }
+                  },
+                  {
+                      "id": 30,
+                      "pivot": {
+                          "id": 1743,
+                          "role_id": 36,
+                          "rule_id": 30
+                      }
+                  },
+                  {
+                      "id": 27,
+                      "pivot": {
+                          "id": 3356,
+                          "role_id": 36,
+                          "rule_id": 27
+                      }
+                  },
+                  {
+                      "id": 28,
+                      "pivot": {
+                          "id": 3357,
+                          "role_id": 36,
+                          "rule_id": 28
+                      }
+                  },
+                  {
+                      "id": 29,
+                      "pivot": {
+                          "id": 3358,
+                          "role_id": 36,
+                          "rule_id": 29
+                      }
+                  },
+                  {
+                      "id": 31,
+                      "pivot": {
+                          "id": 3359,
+                          "role_id": 36,
+                          "rule_id": 31
+                      }
+                  },
+                  {
+                      "id": 32,
+                      "pivot": {
+                          "id": 3360,
+                          "role_id": 36,
+                          "rule_id": 32
+                      }
+                  },
+                  {
+                      "id": 33,
+                      "pivot": {
+                          "id": 3361,
+                          "role_id": 36,
+                          "rule_id": 33
+                      }
+                  },
+                  {
+                      "id": 34,
+                      "pivot": {
+                          "id": 3362,
+                          "role_id": 36,
+                          "rule_id": 34
+                      }
+                  },
+                  {
+                      "id": 35,
+                      "pivot": {
+                          "id": 3363,
+                          "role_id": 36,
+                          "rule_id": 35
+                      }
+                  },
+                  {
+                      "id": 36,
+                      "pivot": {
+                          "id": 3364,
+                          "role_id": 36,
+                          "rule_id": 36
+                      }
+                  },
+                  {
+                      "id": 37,
+                      "pivot": {
+                          "id": 3365,
+                          "role_id": 36,
+                          "rule_id": 37
+                      }
+                  },
+                  {
+                      "id": 38,
+                      "pivot": {
+                          "id": 3366,
+                          "role_id": 36,
+                          "rule_id": 38
+                      }
+                  },
+                  {
+                      "id": 180,
+                      "pivot": {
+                          "id": 3367,
+                          "role_id": 36,
+                          "rule_id": 180
+                      }
+                  },
+                  {
+                      "id": 149,
+                      "pivot": {
+                          "id": 3368,
+                          "role_id": 36,
+                          "rule_id": 149
+                      }
+                  },
+                  {
+                      "id": 150,
+                      "pivot": {
+                          "id": 3369,
+                          "role_id": 36,
+                          "rule_id": 150
+                      }
+                  },
+                  {
+                      "id": 151,
+                      "pivot": {
+                          "id": 3370,
+                          "role_id": 36,
+                          "rule_id": 151
+                      }
+                  },
+                  {
+                      "id": 152,
+                      "pivot": {
+                          "id": 3371,
+                          "role_id": 36,
+                          "rule_id": 152
+                      }
+                  },
+                  {
+                      "id": 153,
+                      "pivot": {
+                          "id": 3372,
+                          "role_id": 36,
+                          "rule_id": 153
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 3374,
+                          "role_id": 36,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 3395,
+                          "role_id": 36,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 3405,
+                          "role_id": 36,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 3406,
+                          "role_id": 36,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 3407,
+                          "role_id": 36,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 3408,
+                          "role_id": 36,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 3409,
+                          "role_id": 36,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 3410,
+                          "role_id": 36,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 3411,
+                          "role_id": 36,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 181,
+                      "pivot": {
+                          "id": 3416,
+                          "role_id": 36,
+                          "rule_id": 181
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 3493,
+                          "role_id": 36,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 3502,
+                          "role_id": 36,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 3504,
+                          "role_id": 36,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 3505,
+                          "role_id": 36,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 3506,
+                          "role_id": 36,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 3507,
+                          "role_id": 36,
+                          "rule_id": 164
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 35,
+              "status": 0,
+              "create_time": "2020-11-30 13:40:43",
+              "update_time": "2023-06-04 14:15:18",
+              "name": "普通管理员",
+              "desc": "",
+              "rules": [
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 217,
+                          "role_id": 35,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 3492,
+                          "role_id": 35,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 3508,
+                          "role_id": 35,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 3509,
+                          "role_id": 35,
+                          "rule_id": 73
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 3510,
+                          "role_id": 35,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 75,
+                      "pivot": {
+                          "id": 3511,
+                          "role_id": 35,
+                          "rule_id": 75
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 3512,
+                          "role_id": 35,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 3513,
+                          "role_id": 35,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 3514,
+                          "role_id": 35,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 3515,
+                          "role_id": 35,
+                          "rule_id": 164
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 31,
+              "status": 1,
+              "create_time": "2020-11-08 16:37:14",
+              "update_time": "2023-05-30 20:59:03",
+              "name": "测试的故事",
+              "desc": "1231231",
+              "rules": [
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 1923,
+                          "role_id": 31,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 1924,
+                          "role_id": 31,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 1925,
+                          "role_id": 31,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 1926,
+                          "role_id": 31,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 1927,
+                          "role_id": 31,
+                          "rule_id": 176
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 1934,
+                          "role_id": 31,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 61,
+                      "pivot": {
+                          "id": 1935,
+                          "role_id": 31,
+                          "rule_id": 61
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 1936,
+                          "role_id": 31,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 1937,
+                          "role_id": 31,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 1938,
+                          "role_id": 31,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 1939,
+                          "role_id": 31,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 132,
+                      "pivot": {
+                          "id": 1940,
+                          "role_id": 31,
+                          "rule_id": 132
+                      }
+                  },
+                  {
+                      "id": 133,
+                      "pivot": {
+                          "id": 1941,
+                          "role_id": 31,
+                          "rule_id": 133
+                      }
+                  },
+                  {
+                      "id": 134,
+                      "pivot": {
+                          "id": 1942,
+                          "role_id": 31,
+                          "rule_id": 134
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 1943,
+                          "role_id": 31,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 1944,
+                          "role_id": 31,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 1945,
+                          "role_id": 31,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 1946,
+                          "role_id": 31,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 1947,
+                          "role_id": 31,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 1948,
+                          "role_id": 31,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 1949,
+                          "role_id": 31,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 1950,
+                          "role_id": 31,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 1951,
+                          "role_id": 31,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 1952,
+                          "role_id": 31,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 1953,
+                          "role_id": 31,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 71,
+                      "pivot": {
+                          "id": 1954,
+                          "role_id": 31,
+                          "rule_id": 71
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 1955,
+                          "role_id": 31,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 1956,
+                          "role_id": 31,
+                          "rule_id": 73
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 1957,
+                          "role_id": 31,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 75,
+                      "pivot": {
+                          "id": 1958,
+                          "role_id": 31,
+                          "rule_id": 75
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 1959,
+                          "role_id": 31,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 1960,
+                          "role_id": 31,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 1961,
+                          "role_id": 31,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 1962,
+                          "role_id": 31,
+                          "rule_id": 164
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 1963,
+                          "role_id": 31,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 1964,
+                          "role_id": 31,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 1965,
+                          "role_id": 31,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 1966,
+                          "role_id": 31,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 1967,
+                          "role_id": 31,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 1968,
+                          "role_id": 31,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 1969,
+                          "role_id": 31,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 159,
+                      "pivot": {
+                          "id": 1970,
+                          "role_id": 31,
+                          "rule_id": 159
+                      }
+                  },
+                  {
+                      "id": 160,
+                      "pivot": {
+                          "id": 1971,
+                          "role_id": 31,
+                          "rule_id": 160
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 1972,
+                          "role_id": 31,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 1973,
+                          "role_id": 31,
+                          "rule_id": 6
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 21,
+              "status": 1,
+              "create_time": "1970-01-01 08:33:40",
+              "update_time": "2023-05-30 20:59:03",
+              "name": "技术",
+              "desc": "技术测试",
+              "rules": [
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 206,
+                          "role_id": 21,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 207,
+                          "role_id": 21,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 1627,
+                          "role_id": 21,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 1628,
+                          "role_id": 21,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 1629,
+                          "role_id": 21,
+                          "rule_id": 176
+                      }
+                  },
+                  {
+                      "id": 102,
+                      "pivot": {
+                          "id": 1919,
+                          "role_id": 21,
+                          "rule_id": 102
+                      }
+                  },
+                  {
+                      "id": 103,
+                      "pivot": {
+                          "id": 1920,
+                          "role_id": 21,
+                          "rule_id": 103
+                      }
+                  },
+                  {
+                      "id": 22,
+                      "pivot": {
+                          "id": 1921,
+                          "role_id": 21,
+                          "rule_id": 22
+                      }
+                  },
+                  {
+                      "id": 173,
+                      "pivot": {
+                          "id": 1922,
+                          "role_id": 21,
+                          "rule_id": 173
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 3669,
+                          "role_id": 21,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 61,
+                      "pivot": {
+                          "id": 3670,
+                          "role_id": 21,
+                          "rule_id": 61
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 3671,
+                          "role_id": 21,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 3672,
+                          "role_id": 21,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 3673,
+                          "role_id": 21,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 3674,
+                          "role_id": 21,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 132,
+                      "pivot": {
+                          "id": 3675,
+                          "role_id": 21,
+                          "rule_id": 132
+                      }
+                  },
+                  {
+                      "id": 133,
+                      "pivot": {
+                          "id": 3676,
+                          "role_id": 21,
+                          "rule_id": 133
+                      }
+                  },
+                  {
+                      "id": 134,
+                      "pivot": {
+                          "id": 3677,
+                          "role_id": 21,
+                          "rule_id": 134
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 3678,
+                          "role_id": 21,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 3679,
+                          "role_id": 21,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 3680,
+                          "role_id": 21,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 3681,
+                          "role_id": 21,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 3682,
+                          "role_id": 21,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 3683,
+                          "role_id": 21,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 3684,
+                          "role_id": 21,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 3685,
+                          "role_id": 21,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 3686,
+                          "role_id": 21,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 3687,
+                          "role_id": 21,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 3688,
+                          "role_id": 21,
+                          "rule_id": 6
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 19,
+              "status": 1,
+              "create_time": "2020-02-16 21:16:23",
+              "update_time": "2023-05-30 20:59:11",
+              "name": "销售",
+              "desc": "销售",
+              "rules": [
+                  {
+                      "id": 11,
+                      "pivot": {
+                          "id": 127,
+                          "role_id": 19,
+                          "rule_id": 11
+                      }
+                  },
+                  {
+                      "id": 62,
+                      "pivot": {
+                          "id": 407,
+                          "role_id": 19,
+                          "rule_id": 62
+                      }
+                  },
+                  {
+                      "id": 63,
+                      "pivot": {
+                          "id": 408,
+                          "role_id": 19,
+                          "rule_id": 63
+                      }
+                  },
+                  {
+                      "id": 64,
+                      "pivot": {
+                          "id": 409,
+                          "role_id": 19,
+                          "rule_id": 64
+                      }
+                  },
+                  {
+                      "id": 65,
+                      "pivot": {
+                          "id": 410,
+                          "role_id": 19,
+                          "rule_id": 65
+                      }
+                  },
+                  {
+                      "id": 66,
+                      "pivot": {
+                          "id": 411,
+                          "role_id": 19,
+                          "rule_id": 66
+                      }
+                  },
+                  {
+                      "id": 67,
+                      "pivot": {
+                          "id": 412,
+                          "role_id": 19,
+                          "rule_id": 67
+                      }
+                  },
+                  {
+                      "id": 68,
+                      "pivot": {
+                          "id": 413,
+                          "role_id": 19,
+                          "rule_id": 68
+                      }
+                  },
+                  {
+                      "id": 69,
+                      "pivot": {
+                          "id": 414,
+                          "role_id": 19,
+                          "rule_id": 69
+                      }
+                  },
+                  {
+                      "id": 97,
+                      "pivot": {
+                          "id": 415,
+                          "role_id": 19,
+                          "rule_id": 97
+                      }
+                  },
+                  {
+                      "id": 61,
+                      "pivot": {
+                          "id": 416,
+                          "role_id": 19,
+                          "rule_id": 61
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 417,
+                          "role_id": 19,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 21,
+                      "pivot": {
+                          "id": 418,
+                          "role_id": 19,
+                          "rule_id": 21
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 419,
+                          "role_id": 19,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 173,
+                      "pivot": {
+                          "id": 420,
+                          "role_id": 19,
+                          "rule_id": 173
+                      }
+                  },
+                  {
+                      "id": 172,
+                      "pivot": {
+                          "id": 421,
+                          "role_id": 19,
+                          "rule_id": 172
+                      }
+                  },
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 2840,
+                          "role_id": 19,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 2841,
+                          "role_id": 19,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 2842,
+                          "role_id": 19,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 2843,
+                          "role_id": 19,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 2844,
+                          "role_id": 19,
+                          "rule_id": 176
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 2845,
+                          "role_id": 19,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 2846,
+                          "role_id": 19,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 2847,
+                          "role_id": 19,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 2848,
+                          "role_id": 19,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 132,
+                      "pivot": {
+                          "id": 2849,
+                          "role_id": 19,
+                          "rule_id": 132
+                      }
+                  },
+                  {
+                      "id": 133,
+                      "pivot": {
+                          "id": 2850,
+                          "role_id": 19,
+                          "rule_id": 133
+                      }
+                  },
+                  {
+                      "id": 134,
+                      "pivot": {
+                          "id": 2851,
+                          "role_id": 19,
+                          "rule_id": 134
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 2852,
+                          "role_id": 19,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 2853,
+                          "role_id": 19,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 2854,
+                          "role_id": 19,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 2855,
+                          "role_id": 19,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 2856,
+                          "role_id": 19,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 2857,
+                          "role_id": 19,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 2858,
+                          "role_id": 19,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 2859,
+                          "role_id": 19,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 2860,
+                          "role_id": 19,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 2861,
+                          "role_id": 19,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 2862,
+                          "role_id": 19,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 71,
+                      "pivot": {
+                          "id": 2863,
+                          "role_id": 19,
+                          "rule_id": 71
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 2864,
+                          "role_id": 19,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 2865,
+                          "role_id": 19,
+                          "rule_id": 73
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 2866,
+                          "role_id": 19,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 75,
+                      "pivot": {
+                          "id": 2867,
+                          "role_id": 19,
+                          "rule_id": 75
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 2868,
+                          "role_id": 19,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 2869,
+                          "role_id": 19,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 2870,
+                          "role_id": 19,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 2871,
+                          "role_id": 19,
+                          "rule_id": 164
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 2872,
+                          "role_id": 19,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 2873,
+                          "role_id": 19,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 2874,
+                          "role_id": 19,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 2875,
+                          "role_id": 19,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 2876,
+                          "role_id": 19,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 2877,
+                          "role_id": 19,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 2878,
+                          "role_id": 19,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 2879,
+                          "role_id": 19,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 159,
+                      "pivot": {
+                          "id": 2880,
+                          "role_id": 19,
+                          "rule_id": 159
+                      }
+                  },
+                  {
+                      "id": 160,
+                      "pivot": {
+                          "id": 2881,
+                          "role_id": 19,
+                          "rule_id": 160
+                      }
+                  },
+                  {
+                      "id": 161,
+                      "pivot": {
+                          "id": 2882,
+                          "role_id": 19,
+                          "rule_id": 161
+                      }
+                  },
+                  {
+                      "id": 181,
+                      "pivot": {
+                          "id": 2883,
+                          "role_id": 19,
+                          "rule_id": 181
+                      }
+                  },
+                  {
+                      "id": 98,
+                      "pivot": {
+                          "id": 2884,
+                          "role_id": 19,
+                          "rule_id": 98
+                      }
+                  },
+                  {
+                      "id": 99,
+                      "pivot": {
+                          "id": 2885,
+                          "role_id": 19,
+                          "rule_id": 99
+                      }
+                  },
+                  {
+                      "id": 100,
+                      "pivot": {
+                          "id": 2886,
+                          "role_id": 19,
+                          "rule_id": 100
+                      }
+                  },
+                  {
+                      "id": 101,
+                      "pivot": {
+                          "id": 2887,
+                          "role_id": 19,
+                          "rule_id": 101
+                      }
+                  },
+                  {
+                      "id": 22,
+                      "pivot": {
+                          "id": 2888,
+                          "role_id": 19,
+                          "rule_id": 22
+                      }
+                  },
+                  {
+                      "id": 102,
+                      "pivot": {
+                          "id": 2889,
+                          "role_id": 19,
+                          "rule_id": 102
+                      }
+                  },
+                  {
+                      "id": 103,
+                      "pivot": {
+                          "id": 2890,
+                          "role_id": 19,
+                          "rule_id": 103
+                      }
+                  },
+                  {
+                      "id": 104,
+                      "pivot": {
+                          "id": 2891,
+                          "role_id": 19,
+                          "rule_id": 104
+                      }
+                  },
+                  {
+                      "id": 105,
+                      "pivot": {
+                          "id": 2892,
+                          "role_id": 19,
+                          "rule_id": 105
+                      }
+                  },
+                  {
+                      "id": 106,
+                      "pivot": {
+                          "id": 2893,
+                          "role_id": 19,
+                          "rule_id": 106
+                      }
+                  },
+                  {
+                      "id": 7,
+                      "pivot": {
+                          "id": 2894,
+                          "role_id": 19,
+                          "rule_id": 7
+                      }
+                  },
+                  {
+                      "id": 18,
+                      "pivot": {
+                          "id": 2895,
+                          "role_id": 19,
+                          "rule_id": 18
+                      }
+                  },
+                  {
+                      "id": 89,
+                      "pivot": {
+                          "id": 2896,
+                          "role_id": 19,
+                          "rule_id": 89
+                      }
+                  },
+                  {
+                      "id": 90,
+                      "pivot": {
+                          "id": 2897,
+                          "role_id": 19,
+                          "rule_id": 90
+                      }
+                  },
+                  {
+                      "id": 91,
+                      "pivot": {
+                          "id": 2898,
+                          "role_id": 19,
+                          "rule_id": 91
+                      }
+                  },
+                  {
+                      "id": 92,
+                      "pivot": {
+                          "id": 2899,
+                          "role_id": 19,
+                          "rule_id": 92
+                      }
+                  },
+                  {
+                      "id": 93,
+                      "pivot": {
+                          "id": 2900,
+                          "role_id": 19,
+                          "rule_id": 93
+                      }
+                  },
+                  {
+                      "id": 182,
+                      "pivot": {
+                          "id": 2901,
+                          "role_id": 19,
+                          "rule_id": 182
+                      }
+                  },
+                  {
+                      "id": 183,
+                      "pivot": {
+                          "id": 2902,
+                          "role_id": 19,
+                          "rule_id": 183
+                      }
+                  },
+                  {
+                      "id": 17,
+                      "pivot": {
+                          "id": 2903,
+                          "role_id": 19,
+                          "rule_id": 17
+                      }
+                  },
+                  {
+                      "id": 94,
+                      "pivot": {
+                          "id": 2904,
+                          "role_id": 19,
+                          "rule_id": 94
+                      }
+                  },
+                  {
+                      "id": 95,
+                      "pivot": {
+                          "id": 2905,
+                          "role_id": 19,
+                          "rule_id": 95
+                      }
+                  },
+                  {
+                      "id": 96,
+                      "pivot": {
+                          "id": 2906,
+                          "role_id": 19,
+                          "rule_id": 96
+                      }
+                  },
+                  {
+                      "id": 8,
+                      "pivot": {
+                          "id": 2907,
+                          "role_id": 19,
+                          "rule_id": 8
+                      }
+                  },
+                  {
+                      "id": 25,
+                      "pivot": {
+                          "id": 2908,
+                          "role_id": 19,
+                          "rule_id": 25
+                      }
+                  },
+                  {
+                      "id": 108,
+                      "pivot": {
+                          "id": 2909,
+                          "role_id": 19,
+                          "rule_id": 108
+                      }
+                  },
+                  {
+                      "id": 109,
+                      "pivot": {
+                          "id": 2910,
+                          "role_id": 19,
+                          "rule_id": 109
+                      }
+                  },
+                  {
+                      "id": 110,
+                      "pivot": {
+                          "id": 2911,
+                          "role_id": 19,
+                          "rule_id": 110
+                      }
+                  },
+                  {
+                      "id": 111,
+                      "pivot": {
+                          "id": 2912,
+                          "role_id": 19,
+                          "rule_id": 111
+                      }
+                  },
+                  {
+                      "id": 112,
+                      "pivot": {
+                          "id": 2913,
+                          "role_id": 19,
+                          "rule_id": 112
+                      }
+                  },
+                  {
+                      "id": 27,
+                      "pivot": {
+                          "id": 2914,
+                          "role_id": 19,
+                          "rule_id": 27
+                      }
+                  },
+                  {
+                      "id": 28,
+                      "pivot": {
+                          "id": 2915,
+                          "role_id": 19,
+                          "rule_id": 28
+                      }
+                  },
+                  {
+                      "id": 29,
+                      "pivot": {
+                          "id": 2916,
+                          "role_id": 19,
+                          "rule_id": 29
+                      }
+                  },
+                  {
+                      "id": 30,
+                      "pivot": {
+                          "id": 2917,
+                          "role_id": 19,
+                          "rule_id": 30
+                      }
+                  },
+                  {
+                      "id": 31,
+                      "pivot": {
+                          "id": 2918,
+                          "role_id": 19,
+                          "rule_id": 31
+                      }
+                  },
+                  {
+                      "id": 32,
+                      "pivot": {
+                          "id": 2919,
+                          "role_id": 19,
+                          "rule_id": 32
+                      }
+                  },
+                  {
+                      "id": 33,
+                      "pivot": {
+                          "id": 2920,
+                          "role_id": 19,
+                          "rule_id": 33
+                      }
+                  },
+                  {
+                      "id": 34,
+                      "pivot": {
+                          "id": 2921,
+                          "role_id": 19,
+                          "rule_id": 34
+                      }
+                  },
+                  {
+                      "id": 35,
+                      "pivot": {
+                          "id": 2922,
+                          "role_id": 19,
+                          "rule_id": 35
+                      }
+                  },
+                  {
+                      "id": 36,
+                      "pivot": {
+                          "id": 2923,
+                          "role_id": 19,
+                          "rule_id": 36
+                      }
+                  },
+                  {
+                      "id": 37,
+                      "pivot": {
+                          "id": 2924,
+                          "role_id": 19,
+                          "rule_id": 37
+                      }
+                  },
+                  {
+                      "id": 38,
+                      "pivot": {
+                          "id": 2925,
+                          "role_id": 19,
+                          "rule_id": 38
+                      }
+                  },
+                  {
+                      "id": 180,
+                      "pivot": {
+                          "id": 2926,
+                          "role_id": 19,
+                          "rule_id": 180
+                      }
+                  },
+                  {
+                      "id": 9,
+                      "pivot": {
+                          "id": 2927,
+                          "role_id": 19,
+                          "rule_id": 9
+                      }
+                  },
+                  {
+                      "id": 23,
+                      "pivot": {
+                          "id": 2928,
+                          "role_id": 19,
+                          "rule_id": 23
+                      }
+                  },
+                  {
+                      "id": 121,
+                      "pivot": {
+                          "id": 2929,
+                          "role_id": 19,
+                          "rule_id": 121
+                      }
+                  },
+                  {
+                      "id": 123,
+                      "pivot": {
+                          "id": 2930,
+                          "role_id": 19,
+                          "rule_id": 123
+                      }
+                  },
+                  {
+                      "id": 26,
+                      "pivot": {
+                          "id": 2931,
+                          "role_id": 19,
+                          "rule_id": 26
+                      }
+                  },
+                  {
+                      "id": 122,
+                      "pivot": {
+                          "id": 2932,
+                          "role_id": 19,
+                          "rule_id": 122
+                      }
+                  },
+                  {
+                      "id": 124,
+                      "pivot": {
+                          "id": 2933,
+                          "role_id": 19,
+                          "rule_id": 124
+                      }
+                  },
+                  {
+                      "id": 125,
+                      "pivot": {
+                          "id": 2934,
+                          "role_id": 19,
+                          "rule_id": 125
+                      }
+                  },
+                  {
+                      "id": 24,
+                      "pivot": {
+                          "id": 2935,
+                          "role_id": 19,
+                          "rule_id": 24
+                      }
+                  },
+                  {
+                      "id": 177,
+                      "pivot": {
+                          "id": 2936,
+                          "role_id": 19,
+                          "rule_id": 177
+                      }
+                  },
+                  {
+                      "id": 178,
+                      "pivot": {
+                          "id": 2937,
+                          "role_id": 19,
+                          "rule_id": 178
+                      }
+                  },
+                  {
+                      "id": 179,
+                      "pivot": {
+                          "id": 2938,
+                          "role_id": 19,
+                          "rule_id": 179
+                      }
+                  },
+                  {
+                      "id": 149,
+                      "pivot": {
+                          "id": 2939,
+                          "role_id": 19,
+                          "rule_id": 149
+                      }
+                  },
+                  {
+                      "id": 150,
+                      "pivot": {
+                          "id": 2940,
+                          "role_id": 19,
+                          "rule_id": 150
+                      }
+                  },
+                  {
+                      "id": 151,
+                      "pivot": {
+                          "id": 2941,
+                          "role_id": 19,
+                          "rule_id": 151
+                      }
+                  },
+                  {
+                      "id": 152,
+                      "pivot": {
+                          "id": 2942,
+                          "role_id": 19,
+                          "rule_id": 152
+                      }
+                  },
+                  {
+                      "id": 153,
+                      "pivot": {
+                          "id": 2943,
+                          "role_id": 19,
+                          "rule_id": 153
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 9,
+              "status": 1,
+              "create_time": "1970-01-01 08:33:40",
+              "update_time": "2023-06-03 09:38:33",
+              "name": "测试",
+              "desc": "测试人员",
+              "rules": [
+                  {
+                      "id": 172,
+                      "pivot": {
+                          "id": 758,
+                          "role_id": 9,
+                          "rule_id": 172
+                      }
+                  },
+                  {
+                      "id": 11,
+                      "pivot": {
+                          "id": 759,
+                          "role_id": 9,
+                          "rule_id": 11
+                      }
+                  },
+                  {
+                      "id": 62,
+                      "pivot": {
+                          "id": 760,
+                          "role_id": 9,
+                          "rule_id": 62
+                      }
+                  },
+                  {
+                      "id": 63,
+                      "pivot": {
+                          "id": 761,
+                          "role_id": 9,
+                          "rule_id": 63
+                      }
+                  },
+                  {
+                      "id": 64,
+                      "pivot": {
+                          "id": 762,
+                          "role_id": 9,
+                          "rule_id": 64
+                      }
+                  },
+                  {
+                      "id": 65,
+                      "pivot": {
+                          "id": 763,
+                          "role_id": 9,
+                          "rule_id": 65
+                      }
+                  },
+                  {
+                      "id": 66,
+                      "pivot": {
+                          "id": 764,
+                          "role_id": 9,
+                          "rule_id": 66
+                      }
+                  },
+                  {
+                      "id": 67,
+                      "pivot": {
+                          "id": 765,
+                          "role_id": 9,
+                          "rule_id": 67
+                      }
+                  },
+                  {
+                      "id": 68,
+                      "pivot": {
+                          "id": 766,
+                          "role_id": 9,
+                          "rule_id": 68
+                      }
+                  },
+                  {
+                      "id": 69,
+                      "pivot": {
+                          "id": 767,
+                          "role_id": 9,
+                          "rule_id": 69
+                      }
+                  },
+                  {
+                      "id": 149,
+                      "pivot": {
+                          "id": 768,
+                          "role_id": 9,
+                          "rule_id": 149
+                      }
+                  },
+                  {
+                      "id": 150,
+                      "pivot": {
+                          "id": 769,
+                          "role_id": 9,
+                          "rule_id": 150
+                      }
+                  },
+                  {
+                      "id": 151,
+                      "pivot": {
+                          "id": 770,
+                          "role_id": 9,
+                          "rule_id": 151
+                      }
+                  },
+                  {
+                      "id": 152,
+                      "pivot": {
+                          "id": 771,
+                          "role_id": 9,
+                          "rule_id": 152
+                      }
+                  },
+                  {
+                      "id": 153,
+                      "pivot": {
+                          "id": 772,
+                          "role_id": 9,
+                          "rule_id": 153
+                      }
+                  },
+                  {
+                      "id": 178,
+                      "pivot": {
+                          "id": 773,
+                          "role_id": 9,
+                          "rule_id": 178
+                      }
+                  },
+                  {
+                      "id": 177,
+                      "pivot": {
+                          "id": 774,
+                          "role_id": 9,
+                          "rule_id": 177
+                      }
+                  },
+                  {
+                      "id": 179,
+                      "pivot": {
+                          "id": 1977,
+                          "role_id": 9,
+                          "rule_id": 179
+                      }
+                  },
+                  {
+                      "id": 61,
+                      "pivot": {
+                          "id": 1978,
+                          "role_id": 9,
+                          "rule_id": 61
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 1979,
+                          "role_id": 9,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 1980,
+                          "role_id": 9,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 1981,
+                          "role_id": 9,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 1982,
+                          "role_id": 9,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 1985,
+                          "role_id": 9,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 1986,
+                          "role_id": 9,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 1987,
+                          "role_id": 9,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 1988,
+                          "role_id": 9,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 1989,
+                          "role_id": 9,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 1990,
+                          "role_id": 9,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 1991,
+                          "role_id": 9,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 1992,
+                          "role_id": 9,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 1993,
+                          "role_id": 9,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 1994,
+                          "role_id": 9,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 1995,
+                          "role_id": 9,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 1996,
+                          "role_id": 9,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 1997,
+                          "role_id": 9,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 1998,
+                          "role_id": 9,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 1999,
+                          "role_id": 9,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 2000,
+                          "role_id": 9,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 2001,
+                          "role_id": 9,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 2002,
+                          "role_id": 9,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 2003,
+                          "role_id": 9,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 71,
+                      "pivot": {
+                          "id": 2004,
+                          "role_id": 9,
+                          "rule_id": 71
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 2005,
+                          "role_id": 9,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 2006,
+                          "role_id": 9,
+                          "rule_id": 73
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 2007,
+                          "role_id": 9,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 75,
+                      "pivot": {
+                          "id": 2008,
+                          "role_id": 9,
+                          "rule_id": 75
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 2009,
+                          "role_id": 9,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 2010,
+                          "role_id": 9,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 2011,
+                          "role_id": 9,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 2012,
+                          "role_id": 9,
+                          "rule_id": 164
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 2013,
+                          "role_id": 9,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 2014,
+                          "role_id": 9,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 159,
+                      "pivot": {
+                          "id": 2015,
+                          "role_id": 9,
+                          "rule_id": 159
+                      }
+                  },
+                  {
+                      "id": 160,
+                      "pivot": {
+                          "id": 2016,
+                          "role_id": 9,
+                          "rule_id": 160
+                      }
+                  },
+                  {
+                      "id": 161,
+                      "pivot": {
+                          "id": 2017,
+                          "role_id": 9,
+                          "rule_id": 161
+                      }
+                  },
+                  {
+                      "id": 181,
+                      "pivot": {
+                          "id": 2018,
+                          "role_id": 9,
+                          "rule_id": 181
+                      }
+                  },
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 2019,
+                          "role_id": 9,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 2020,
+                          "role_id": 9,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 2021,
+                          "role_id": 9,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 2022,
+                          "role_id": 9,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 2023,
+                          "role_id": 9,
+                          "rule_id": 176
+                      }
+                  },
+                  {
+                      "id": 97,
+                      "pivot": {
+                          "id": 2030,
+                          "role_id": 9,
+                          "rule_id": 97
+                      }
+                  },
+                  {
+                      "id": 98,
+                      "pivot": {
+                          "id": 2031,
+                          "role_id": 9,
+                          "rule_id": 98
+                      }
+                  },
+                  {
+                      "id": 21,
+                      "pivot": {
+                          "id": 2032,
+                          "role_id": 9,
+                          "rule_id": 21
+                      }
+                  },
+                  {
+                      "id": 173,
+                      "pivot": {
+                          "id": 2033,
+                          "role_id": 9,
+                          "rule_id": 173
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 3,
+              "status": 1,
+              "create_time": "2019-10-28 02:19:43",
+              "update_time": "2021-12-19 03:46:45",
+              "name": "运营",
+              "desc": "上架商品等权限",
+              "rules": [
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 195,
+                          "role_id": 3,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 196,
+                          "role_id": 3,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 11,
+                      "pivot": {
+                          "id": 197,
+                          "role_id": 3,
+                          "rule_id": 11
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 199,
+                          "role_id": 3,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 200,
+                          "role_id": 3,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 201,
+                          "role_id": 3,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 202,
+                          "role_id": 3,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 7,
+                      "pivot": {
+                          "id": 203,
+                          "role_id": 3,
+                          "rule_id": 7
+                      }
+                  },
+                  {
+                      "id": 18,
+                      "pivot": {
+                          "id": 204,
+                          "role_id": 3,
+                          "rule_id": 18
+                      }
+                  }
+              ]
+          },
+          {
+              "id": 2,
+              "status": 1,
+              "create_time": "2019-08-11 15:34:39",
+              "update_time": "2021-12-19 03:43:28",
+              "name": "超级管理员",
+              "desc": "最高权限",
+              "rules": [
+                  {
+                      "id": 11,
+                      "pivot": {
+                          "id": 114,
+                          "role_id": 2,
+                          "rule_id": 11
+                      }
+                  },
+                  {
+                      "id": 5,
+                      "pivot": {
+                          "id": 163,
+                          "role_id": 2,
+                          "rule_id": 5
+                      }
+                  },
+                  {
+                      "id": 10,
+                      "pivot": {
+                          "id": 164,
+                          "role_id": 2,
+                          "rule_id": 10
+                      }
+                  },
+                  {
+                      "id": 6,
+                      "pivot": {
+                          "id": 165,
+                          "role_id": 2,
+                          "rule_id": 6
+                      }
+                  },
+                  {
+                      "id": 13,
+                      "pivot": {
+                          "id": 166,
+                          "role_id": 2,
+                          "rule_id": 13
+                      }
+                  },
+                  {
+                      "id": 14,
+                      "pivot": {
+                          "id": 167,
+                          "role_id": 2,
+                          "rule_id": 14
+                      }
+                  },
+                  {
+                      "id": 15,
+                      "pivot": {
+                          "id": 168,
+                          "role_id": 2,
+                          "rule_id": 15
+                      }
+                  },
+                  {
+                      "id": 17,
+                      "pivot": {
+                          "id": 170,
+                          "role_id": 2,
+                          "rule_id": 17
+                      }
+                  },
+                  {
+                      "id": 7,
+                      "pivot": {
+                          "id": 171,
+                          "role_id": 2,
+                          "rule_id": 7
+                      }
+                  },
+                  {
+                      "id": 18,
+                      "pivot": {
+                          "id": 172,
+                          "role_id": 2,
+                          "rule_id": 18
+                      }
+                  },
+                  {
+                      "id": 8,
+                      "pivot": {
+                          "id": 175,
+                          "role_id": 2,
+                          "rule_id": 8
+                      }
+                  },
+                  {
+                      "id": 21,
+                      "pivot": {
+                          "id": 176,
+                          "role_id": 2,
+                          "rule_id": 21
+                      }
+                  },
+                  {
+                      "id": 22,
+                      "pivot": {
+                          "id": 177,
+                          "role_id": 2,
+                          "rule_id": 22
+                      }
+                  },
+                  {
+                      "id": 9,
+                      "pivot": {
+                          "id": 178,
+                          "role_id": 2,
+                          "rule_id": 9
+                      }
+                  },
+                  {
+                      "id": 23,
+                      "pivot": {
+                          "id": 179,
+                          "role_id": 2,
+                          "rule_id": 23
+                      }
+                  },
+                  {
+                      "id": 24,
+                      "pivot": {
+                          "id": 180,
+                          "role_id": 2,
+                          "rule_id": 24
+                      }
+                  },
+                  {
+                      "id": 25,
+                      "pivot": {
+                          "id": 181,
+                          "role_id": 2,
+                          "rule_id": 25
+                      }
+                  },
+                  {
+                      "id": 26,
+                      "pivot": {
+                          "id": 182,
+                          "role_id": 2,
+                          "rule_id": 26
+                      }
+                  },
+                  {
+                      "id": 27,
+                      "pivot": {
+                          "id": 183,
+                          "role_id": 2,
+                          "rule_id": 27
+                      }
+                  },
+                  {
+                      "id": 28,
+                      "pivot": {
+                          "id": 184,
+                          "role_id": 2,
+                          "rule_id": 28
+                      }
+                  },
+                  {
+                      "id": 29,
+                      "pivot": {
+                          "id": 185,
+                          "role_id": 2,
+                          "rule_id": 29
+                      }
+                  },
+                  {
+                      "id": 30,
+                      "pivot": {
+                          "id": 186,
+                          "role_id": 2,
+                          "rule_id": 30
+                      }
+                  },
+                  {
+                      "id": 31,
+                      "pivot": {
+                          "id": 187,
+                          "role_id": 2,
+                          "rule_id": 31
+                      }
+                  },
+                  {
+                      "id": 32,
+                      "pivot": {
+                          "id": 188,
+                          "role_id": 2,
+                          "rule_id": 32
+                      }
+                  },
+                  {
+                      "id": 33,
+                      "pivot": {
+                          "id": 189,
+                          "role_id": 2,
+                          "rule_id": 33
+                      }
+                  },
+                  {
+                      "id": 34,
+                      "pivot": {
+                          "id": 190,
+                          "role_id": 2,
+                          "rule_id": 34
+                      }
+                  },
+                  {
+                      "id": 35,
+                      "pivot": {
+                          "id": 191,
+                          "role_id": 2,
+                          "rule_id": 35
+                      }
+                  },
+                  {
+                      "id": 36,
+                      "pivot": {
+                          "id": 192,
+                          "role_id": 2,
+                          "rule_id": 36
+                      }
+                  },
+                  {
+                      "id": 37,
+                      "pivot": {
+                          "id": 193,
+                          "role_id": 2,
+                          "rule_id": 37
+                      }
+                  },
+                  {
+                      "id": 38,
+                      "pivot": {
+                          "id": 194,
+                          "role_id": 2,
+                          "rule_id": 38
+                      }
+                  },
+                  {
+                      "id": 94,
+                      "pivot": {
+                          "id": 317,
+                          "role_id": 2,
+                          "rule_id": 94
+                      }
+                  },
+                  {
+                      "id": 95,
+                      "pivot": {
+                          "id": 318,
+                          "role_id": 2,
+                          "rule_id": 95
+                      }
+                  },
+                  {
+                      "id": 96,
+                      "pivot": {
+                          "id": 319,
+                          "role_id": 2,
+                          "rule_id": 96
+                      }
+                  },
+                  {
+                      "id": 89,
+                      "pivot": {
+                          "id": 320,
+                          "role_id": 2,
+                          "rule_id": 89
+                      }
+                  },
+                  {
+                      "id": 90,
+                      "pivot": {
+                          "id": 321,
+                          "role_id": 2,
+                          "rule_id": 90
+                      }
+                  },
+                  {
+                      "id": 91,
+                      "pivot": {
+                          "id": 322,
+                          "role_id": 2,
+                          "rule_id": 91
+                      }
+                  },
+                  {
+                      "id": 92,
+                      "pivot": {
+                          "id": 323,
+                          "role_id": 2,
+                          "rule_id": 92
+                      }
+                  },
+                  {
+                      "id": 93,
+                      "pivot": {
+                          "id": 324,
+                          "role_id": 2,
+                          "rule_id": 93
+                      }
+                  },
+                  {
+                      "id": 97,
+                      "pivot": {
+                          "id": 325,
+                          "role_id": 2,
+                          "rule_id": 97
+                      }
+                  },
+                  {
+                      "id": 98,
+                      "pivot": {
+                          "id": 326,
+                          "role_id": 2,
+                          "rule_id": 98
+                      }
+                  },
+                  {
+                      "id": 99,
+                      "pivot": {
+                          "id": 327,
+                          "role_id": 2,
+                          "rule_id": 99
+                      }
+                  },
+                  {
+                      "id": 100,
+                      "pivot": {
+                          "id": 328,
+                          "role_id": 2,
+                          "rule_id": 100
+                      }
+                  },
+                  {
+                      "id": 101,
+                      "pivot": {
+                          "id": 329,
+                          "role_id": 2,
+                          "rule_id": 101
+                      }
+                  },
+                  {
+                      "id": 102,
+                      "pivot": {
+                          "id": 330,
+                          "role_id": 2,
+                          "rule_id": 102
+                      }
+                  },
+                  {
+                      "id": 103,
+                      "pivot": {
+                          "id": 331,
+                          "role_id": 2,
+                          "rule_id": 103
+                      }
+                  },
+                  {
+                      "id": 104,
+                      "pivot": {
+                          "id": 332,
+                          "role_id": 2,
+                          "rule_id": 104
+                      }
+                  },
+                  {
+                      "id": 105,
+                      "pivot": {
+                          "id": 333,
+                          "role_id": 2,
+                          "rule_id": 105
+                      }
+                  },
+                  {
+                      "id": 106,
+                      "pivot": {
+                          "id": 334,
+                          "role_id": 2,
+                          "rule_id": 106
+                      }
+                  },
+                  {
+                      "id": 173,
+                      "pivot": {
+                          "id": 335,
+                          "role_id": 2,
+                          "rule_id": 173
+                      }
+                  },
+                  {
+                      "id": 174,
+                      "pivot": {
+                          "id": 336,
+                          "role_id": 2,
+                          "rule_id": 174
+                      }
+                  },
+                  {
+                      "id": 175,
+                      "pivot": {
+                          "id": 337,
+                          "role_id": 2,
+                          "rule_id": 175
+                      }
+                  },
+                  {
+                      "id": 176,
+                      "pivot": {
+                          "id": 338,
+                          "role_id": 2,
+                          "rule_id": 176
+                      }
+                  },
+                  {
+                      "id": 61,
+                      "pivot": {
+                          "id": 339,
+                          "role_id": 2,
+                          "rule_id": 61
+                      }
+                  },
+                  {
+                      "id": 127,
+                      "pivot": {
+                          "id": 340,
+                          "role_id": 2,
+                          "rule_id": 127
+                      }
+                  },
+                  {
+                      "id": 128,
+                      "pivot": {
+                          "id": 341,
+                          "role_id": 2,
+                          "rule_id": 128
+                      }
+                  },
+                  {
+                      "id": 129,
+                      "pivot": {
+                          "id": 342,
+                          "role_id": 2,
+                          "rule_id": 129
+                      }
+                  },
+                  {
+                      "id": 131,
+                      "pivot": {
+                          "id": 343,
+                          "role_id": 2,
+                          "rule_id": 131
+                      }
+                  },
+                  {
+                      "id": 132,
+                      "pivot": {
+                          "id": 344,
+                          "role_id": 2,
+                          "rule_id": 132
+                      }
+                  },
+                  {
+                      "id": 133,
+                      "pivot": {
+                          "id": 345,
+                          "role_id": 2,
+                          "rule_id": 133
+                      }
+                  },
+                  {
+                      "id": 134,
+                      "pivot": {
+                          "id": 346,
+                          "role_id": 2,
+                          "rule_id": 134
+                      }
+                  },
+                  {
+                      "id": 135,
+                      "pivot": {
+                          "id": 347,
+                          "role_id": 2,
+                          "rule_id": 135
+                      }
+                  },
+                  {
+                      "id": 136,
+                      "pivot": {
+                          "id": 348,
+                          "role_id": 2,
+                          "rule_id": 136
+                      }
+                  },
+                  {
+                      "id": 137,
+                      "pivot": {
+                          "id": 349,
+                          "role_id": 2,
+                          "rule_id": 137
+                      }
+                  },
+                  {
+                      "id": 140,
+                      "pivot": {
+                          "id": 350,
+                          "role_id": 2,
+                          "rule_id": 140
+                      }
+                  },
+                  {
+                      "id": 141,
+                      "pivot": {
+                          "id": 351,
+                          "role_id": 2,
+                          "rule_id": 141
+                      }
+                  },
+                  {
+                      "id": 142,
+                      "pivot": {
+                          "id": 352,
+                          "role_id": 2,
+                          "rule_id": 142
+                      }
+                  },
+                  {
+                      "id": 143,
+                      "pivot": {
+                          "id": 353,
+                          "role_id": 2,
+                          "rule_id": 143
+                      }
+                  },
+                  {
+                      "id": 145,
+                      "pivot": {
+                          "id": 354,
+                          "role_id": 2,
+                          "rule_id": 145
+                      }
+                  },
+                  {
+                      "id": 147,
+                      "pivot": {
+                          "id": 355,
+                          "role_id": 2,
+                          "rule_id": 147
+                      }
+                  },
+                  {
+                      "id": 148,
+                      "pivot": {
+                          "id": 356,
+                          "role_id": 2,
+                          "rule_id": 148
+                      }
+                  },
+                  {
+                      "id": 71,
+                      "pivot": {
+                          "id": 357,
+                          "role_id": 2,
+                          "rule_id": 71
+                      }
+                  },
+                  {
+                      "id": 72,
+                      "pivot": {
+                          "id": 358,
+                          "role_id": 2,
+                          "rule_id": 72
+                      }
+                  },
+                  {
+                      "id": 73,
+                      "pivot": {
+                          "id": 359,
+                          "role_id": 2,
+                          "rule_id": 73
+                      }
+                  },
+                  {
+                      "id": 74,
+                      "pivot": {
+                          "id": 360,
+                          "role_id": 2,
+                          "rule_id": 74
+                      }
+                  },
+                  {
+                      "id": 75,
+                      "pivot": {
+                          "id": 361,
+                          "role_id": 2,
+                          "rule_id": 75
+                      }
+                  },
+                  {
+                      "id": 76,
+                      "pivot": {
+                          "id": 362,
+                          "role_id": 2,
+                          "rule_id": 76
+                      }
+                  },
+                  {
+                      "id": 162,
+                      "pivot": {
+                          "id": 363,
+                          "role_id": 2,
+                          "rule_id": 162
+                      }
+                  },
+                  {
+                      "id": 163,
+                      "pivot": {
+                          "id": 364,
+                          "role_id": 2,
+                          "rule_id": 163
+                      }
+                  },
+                  {
+                      "id": 164,
+                      "pivot": {
+                          "id": 365,
+                          "role_id": 2,
+                          "rule_id": 164
+                      }
+                  },
+                  {
+                      "id": 77,
+                      "pivot": {
+                          "id": 366,
+                          "role_id": 2,
+                          "rule_id": 77
+                      }
+                  },
+                  {
+                      "id": 78,
+                      "pivot": {
+                          "id": 367,
+                          "role_id": 2,
+                          "rule_id": 78
+                      }
+                  },
+                  {
+                      "id": 79,
+                      "pivot": {
+                          "id": 368,
+                          "role_id": 2,
+                          "rule_id": 79
+                      }
+                  },
+                  {
+                      "id": 80,
+                      "pivot": {
+                          "id": 369,
+                          "role_id": 2,
+                          "rule_id": 80
+                      }
+                  },
+                  {
+                      "id": 81,
+                      "pivot": {
+                          "id": 370,
+                          "role_id": 2,
+                          "rule_id": 81
+                      }
+                  },
+                  {
+                      "id": 157,
+                      "pivot": {
+                          "id": 371,
+                          "role_id": 2,
+                          "rule_id": 157
+                      }
+                  },
+                  {
+                      "id": 158,
+                      "pivot": {
+                          "id": 372,
+                          "role_id": 2,
+                          "rule_id": 158
+                      }
+                  },
+                  {
+                      "id": 159,
+                      "pivot": {
+                          "id": 373,
+                          "role_id": 2,
+                          "rule_id": 159
+                      }
+                  },
+                  {
+                      "id": 160,
+                      "pivot": {
+                          "id": 374,
+                          "role_id": 2,
+                          "rule_id": 160
+                      }
+                  },
+                  {
+                      "id": 161,
+                      "pivot": {
+                          "id": 375,
+                          "role_id": 2,
+                          "rule_id": 161
+                      }
+                  },
+                  {
+                      "id": 108,
+                      "pivot": {
+                          "id": 376,
+                          "role_id": 2,
+                          "rule_id": 108
+                      }
+                  },
+                  {
+                      "id": 109,
+                      "pivot": {
+                          "id": 377,
+                          "role_id": 2,
+                          "rule_id": 109
+                      }
+                  },
+                  {
+                      "id": 110,
+                      "pivot": {
+                          "id": 378,
+                          "role_id": 2,
+                          "rule_id": 110
+                      }
+                  },
+                  {
+                      "id": 111,
+                      "pivot": {
+                          "id": 379,
+                          "role_id": 2,
+                          "rule_id": 111
+                      }
+                  },
+                  {
+                      "id": 112,
+                      "pivot": {
+                          "id": 380,
+                          "role_id": 2,
+                          "rule_id": 112
+                      }
+                  },
+                  {
+                      "id": 121,
+                      "pivot": {
+                          "id": 381,
+                          "role_id": 2,
+                          "rule_id": 121
+                      }
+                  },
+                  {
+                      "id": 123,
+                      "pivot": {
+                          "id": 382,
+                          "role_id": 2,
+                          "rule_id": 123
+                      }
+                  },
+                  {
+                      "id": 122,
+                      "pivot": {
+                          "id": 383,
+                          "role_id": 2,
+                          "rule_id": 122
+                      }
+                  },
+                  {
+                      "id": 124,
+                      "pivot": {
+                          "id": 384,
+                          "role_id": 2,
+                          "rule_id": 124
+                      }
+                  },
+                  {
+                      "id": 125,
+                      "pivot": {
+                          "id": 385,
+                          "role_id": 2,
+                          "rule_id": 125
+                      }
+                  },
+                  {
+                      "id": 172,
+                      "pivot": {
+                          "id": 386,
+                          "role_id": 2,
+                          "rule_id": 172
+                      }
+                  },
+                  {
+                      "id": 62,
+                      "pivot": {
+                          "id": 387,
+                          "role_id": 2,
+                          "rule_id": 62
+                      }
+                  },
+                  {
+                      "id": 63,
+                      "pivot": {
+                          "id": 388,
+                          "role_id": 2,
+                          "rule_id": 63
+                      }
+                  },
+                  {
+                      "id": 64,
+                      "pivot": {
+                          "id": 389,
+                          "role_id": 2,
+                          "rule_id": 64
+                      }
+                  },
+                  {
+                      "id": 65,
+                      "pivot": {
+                          "id": 390,
+                          "role_id": 2,
+                          "rule_id": 65
+                      }
+                  },
+                  {
+                      "id": 66,
+                      "pivot": {
+                          "id": 391,
+                          "role_id": 2,
+                          "rule_id": 66
+                      }
+                  },
+                  {
+                      "id": 67,
+                      "pivot": {
+                          "id": 392,
+                          "role_id": 2,
+                          "rule_id": 67
+                      }
+                  },
+                  {
+                      "id": 68,
+                      "pivot": {
+                          "id": 393,
+                          "role_id": 2,
+                          "rule_id": 68
+                      }
+                  },
+                  {
+                      "id": 69,
+                      "pivot": {
+                          "id": 394,
+                          "role_id": 2,
+                          "rule_id": 69
+                      }
+                  },
+                  {
+                      "id": 149,
+                      "pivot": {
+                          "id": 395,
+                          "role_id": 2,
+                          "rule_id": 149
+                      }
+                  },
+                  {
+                      "id": 150,
+                      "pivot": {
+                          "id": 396,
+                          "role_id": 2,
+                          "rule_id": 150
+                      }
+                  },
+                  {
+                      "id": 151,
+                      "pivot": {
+                          "id": 397,
+                          "role_id": 2,
+                          "rule_id": 151
+                      }
+                  },
+                  {
+                      "id": 152,
+                      "pivot": {
+                          "id": 398,
+                          "role_id": 2,
+                          "rule_id": 152
+                      }
+                  },
+                  {
+                      "id": 153,
+                      "pivot": {
+                          "id": 399,
+                          "role_id": 2,
+                          "rule_id": 153
+                      }
+                  },
+                  {
+                      "id": 177,
+                      "pivot": {
+                          "id": 400,
+                          "role_id": 2,
+                          "rule_id": 177
+                      }
+                  },
+                  {
+                      "id": 178,
+                      "pivot": {
+                          "id": 401,
+                          "role_id": 2,
+                          "rule_id": 178
+                      }
+                  },
+                  {
+                      "id": 179,
+                      "pivot": {
+                          "id": 402,
+                          "role_id": 2,
+                          "rule_id": 179
+                      }
+                  },
+                  {
+                      "id": 181,
+                      "pivot": {
+                          "id": 403,
+                          "role_id": 2,
+                          "rule_id": 181
+                      }
+                  },
+                  {
+                      "id": 182,
+                      "pivot": {
+                          "id": 404,
+                          "role_id": 2,
+                          "rule_id": 182
+                      }
+                  },
+                  {
+                      "id": 183,
+                      "pivot": {
+                          "id": 405,
+                          "role_id": 2,
+                          "rule_id": 183
+                      }
+                  },
+                  {
+                      "id": 180,
+                      "pivot": {
+                          "id": 406,
+                          "role_id": 2,
+                          "rule_id": 180
+                      }
+                  }
+              ]
+          }
+      ],
+      "totalCount": 10
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}

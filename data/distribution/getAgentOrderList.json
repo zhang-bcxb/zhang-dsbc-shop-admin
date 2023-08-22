@@ -1,0 +1,51 @@
+{
+  "msg": "ok",
+  "data": {
+      "list": [
+          {
+              "id": 1,
+              "user_id": 3,
+              "level": 1,
+              "order_id": 348,
+              "commission": "0.05",
+              "status": 1,
+              "create_time": "2021-06-13 20:37:59",
+              "update_time": "2021-06-13 20:37:59",
+              "order": {
+                  "id": 348,
+                  "no": "20210613182220167590",
+                  "user_id": 4,
+                  "user": {
+                      "id": 4,
+                      "username": "user2",
+                      "nickname": "昵称",
+                      "phone": "15632654659"
+                  }
+              }
+          },
+          {
+              "id": 2,
+              "user_id": 3,
+              "level": 1,
+              "order_id": 155,
+              "commission": "0.05",
+              "status": 1,
+              "create_time": "2021-06-13 20:37:59",
+              "update_time": "2021-06-13 20:37:59",
+              "order": {
+                  "id": 155,
+                  "no": "20191217220207547581",
+                  "user_id": 3,
+                  "user": {
+                      "id": 3,
+                      "username": "user",
+                      "nickname": "昵称",
+                      "phone": "15632654658"
+                  }
+              }
+          }
+      ],
+      "totalCount": 2
+  },
+  "path": "观看完整课程地址：https:\/\/study.163.com\/course\/courseMain.htm?courseId=1212775807&share=2&shareId=480000001892585"
+}
